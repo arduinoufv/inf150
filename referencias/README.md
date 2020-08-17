@@ -6,12 +6,12 @@
 
 # Material dos Professores da UFSC - José Luís Güntzel e Francisco Assis do Nascimento
 
-[Apostila de Introdução ao sistemas de numeração e codificação](http://www.inf.ufsc.br/%7Eguntzel/isd/isd1.pdf)
-[Apostila de Portas lógicas](http://www.inf.ufsc.br/%7Eguntzel/isd/isd2.pdf)
-[Apostila de Circuitos Combinacionais](http://www.inf.ufsc.br/%7Eguntzel/isd/isd3.pdf)
-[Apostila de Circuitos Sequenciais](http://www.inf.ufsc.br/%7Eguntzel/isd/isd4.pdf)
-[Apostila de Memória](http://www.inf.ufsc.br/%7Eguntzel/isd/isd5.pdf)
+* [Apostila de Introdução ao sistemas de numeração e codificação](http://www.inf.ufsc.br/%7Eguntzel/isd/isd1.pdf)
+* [Apostila de Portas lógicas](http://www.inf.ufsc.br/%7Eguntzel/isd/isd2.pdf)
+* [Apostila de Circuitos Combinacionais](http://www.inf.ufsc.br/%7Eguntzel/isd/isd3.pdf)
+* [Apostila de Circuitos Sequenciais](http://www.inf.ufsc.br/%7Eguntzel/isd/isd4.pdf)
+* [Apostila de Memória](http://www.inf.ufsc.br/%7Eguntzel/isd/isd5.pdf)
 
 # Verilog
-[Tutorial resumido UFPE](https://www.cin.ufpe.br/~eaa3/Arquivos/Verilog/Tutorial%20Verilog.pdf)
-[Slides UFOP Resumido de Verilog e VHDL](http://www.decom.ufop.br/alex/arquivos/sist_emb/HDLS.pdf)
+* [Tutorial resumido UFPE](https://www.cin.ufpe.br/~eaa3/Arquivos/Verilog/Tutorial%20Verilog.pdf)
+* [Slides UFOP Resumido de Verilog e VHDL](http://www.decom.ufop.br/alex/arquivos/sist_emb/HDLS.pdf)
