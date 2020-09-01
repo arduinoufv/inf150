@@ -3,5 +3,3 @@ Sistemas de Numeração e Codificação: Binário, Complemento de 2, Hexadecimal
 
 [Laboratório](https://colab.research.google.com/drive/1U654FtCg5_ZEtmObc8SZIfZl4vk2pxDS)
 
-Respostas
-[102007](https://github.com/cacauvicosa)
