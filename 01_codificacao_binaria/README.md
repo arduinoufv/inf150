@@ -5,4 +5,4 @@ Sistemas de Numeração e Codificação: Binário, Complemento de 2, Hexadecimal
 
 * [Video com Instruçoes para submissão do exercício](https://youtu.be/XcfEPMSZ1CU)
 
-* [Video com instruções para questionário]()
+* [Video com instruções para questionário](https://youtu.be/bor-YXUZHNQ)
