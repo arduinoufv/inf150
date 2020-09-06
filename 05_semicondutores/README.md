@@ -6,3 +6,10 @@
 # Projetos de Portas CMOS
 
 * [NAND](https://commons.wikimedia.org/wiki/File:CMOS_NAND.svg)
+* [NOR](https://commons.wikimedia.org/wiki/File:NOR_gate_(CMOS_circuit).PNG)
+* [XOR](https://commons.wikimedia.org/wiki/File:CmosXORGate.svg)
+* [MUX](https://en.wikichip.org/wiki/multiplexer)
+* [AOI](https://johnloomis.org/ece531/notes/gates/aoi_gates.html)
+* [AND](https://commons.wikimedia.org/wiki/File:CMOS_AND_Layout.svg)
+* [OR](https://commons.wikimedia.org/wiki/File:CMOS_OR.svg)
+
