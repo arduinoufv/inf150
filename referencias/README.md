@@ -15,3 +15,8 @@
 # Verilog
 * [Tutorial resumido UFPE](https://www.cin.ufpe.br/~eaa3/Arquivos/Verilog/Tutorial%20Verilog.pdf)
 * [Slides UFOP Resumido de Verilog e VHDL](http://www.decom.ufop.br/alex/arquivos/sist_emb/HDLS.pdf)
+
+# CMOS
+ * [stick diagrams - video](https://www.youtube.com/watch?v=9MBndFzBYtA)
+ * [Slides](https://rmd.ac.in/dept/ece/Supporting_Online_%20Materials/6/VLSI/unit1.pdf)
+ 
