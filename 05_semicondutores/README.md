@@ -3,6 +3,7 @@
 * [Circuito CMOS inversor]( https://www.tinkercad.com/things/dBeYVb3KHJD)
 * [CMOS com protoboard](https://www.tinkercad.com/things/6AtMe2qwSAY-brilliant-waasa-uusam/editel?tenant=circuits?sharecode=m-1QlPeAvL0fSZGD7rPEqwnPd6UNPhLD3YJBqhW7Bi4)
 * [Circuito CMOS NOR com transistor nMOS e pMOS](https://www.tinkercad.com/things/5o57tj81Kzt-copy-of-cmos-inverter/editel?tenant=circuits?sharecode=ozUnapSYDiGcSRRzrzdLgwyvXfF3EqU0zf92TgySr40)
+* [CMOS layout](https://www.tinkercad.com/things/1ALEuahgUts-grand-jaban-albar/editel?tenant=circuits?sharecode=8bYlvrJH82PK96hS5MOdrGy6WZ4Ucj17vEukZFKn9Dw)
 
 # Projetos de Portas CMOS
 
