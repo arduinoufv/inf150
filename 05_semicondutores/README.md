@@ -1,3 +1,10 @@
+# Slides para Processo de Fabricação CMOS
+* [FEUP passo a passo para montar um transistor/inversor](https://paginas.fe.up.pt/~vgt/Disciplinas/E3/tecnologia.pdf)
+
+* [Material da USP](http://www.lsi.usp.br/~acacio/fpci07_TransistoresMOS_Fabricacao.pdf)
+
+* [Material da PUC](http://www4.pucsp.br/~elo2eng/Processo%20de%20fabricacao%20de%20dispositivos.pdf)
+
 # Exemplos de circuitos com transistores MOS no TinkerCad
 
 * [Circuito CMOS inversor]( https://www.tinkercad.com/things/dBeYVb3KHJD)
