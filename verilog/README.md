@@ -3,4 +3,7 @@
 [Aula resumida de Verilog em Ingles - Onur Mutlu - ETH](https://www.youtube.com/watch?v=c7aAtG0qBHw&feature=youtu.be)
 
 
-[Exemplos de projetos em Verilog](https://verilogguide.readthedocs.io/en/latest/verilog/designs.html)
+[Exemplos de projetos em Verilog:shift, ram, random generators](https://verilogguide.readthedocs.io/en/latest/verilog/designs.html)
+
+[UART projeto](http://www.doulos.com/knowhow/verilog/universal-asynchronous-receiver-uar/)
+
