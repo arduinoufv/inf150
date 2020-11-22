@@ -28,3 +28,19 @@
 
 [fita led](https://hackaday.com/wp-content/uploads/2014/12/programming_incorrect.png?w=800)
 
+[I2C 2 Arduinos](https://www.arduino.cc/wiki/static/4c35b7e5d5136ddeac81c1672a6abc7b/5a190/Master_Sender_bb.png)
+
+[I2C 2 Arduinos Esquematico](https://www.arduino.cc/en/uploads/Tutorial/Master_Sender_sch.png)
+
+
+# Exemplos com Arduinos
+
+* [Dois Arduinos e Protocolo I2C](https://www.arduino.cc/en/Tutorial/LibraryExamples/MasterWriter)
+
+* [SPI Dois Arduinos](http://arduino-er.blogspot.com/2014/09/communication-betweeen-arduinos-using.html)
+
+# Exemplos em Verilog
+
+* [Serial e Paralelo](https://verilogguide.readthedocs.io/en/latest/verilog/designs.html)
+
+
