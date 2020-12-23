@@ -7,3 +7,5 @@
 
 [UART projeto](http://www.doulos.com/knowhow/verilog/universal-asynchronous-receiver-uar/)
 
+[Raiz Quadrada em Verilog](https://projectf.io/posts/square-root-in-verilog/)
+
