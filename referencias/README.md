@@ -12,6 +12,10 @@
 * [Apostila de Circuitos Sequenciais](http://www.inf.ufsc.br/%7Eguntzel/isd/isd4.pdf)
 * [Apostila de Memória](http://www.inf.ufsc.br/%7Eguntzel/isd/isd5.pdf)
 
+# Material do Prof. Ricardo Menotti UFscar
+
+[Lógica Digital - Playlist com Verilog de portas lógicas a máquinas de estado](https://www.youtube.com/playlist?list=PLhaFCmjMNuYZjAdJtC2WfDeHgR3daM9Tm)
+
 # Verilog
 * [Tutorial resumido UFPE](https://www.cin.ufpe.br/~eaa3/Arquivos/Verilog/Tutorial%20Verilog.pdf)
 * [Slides UFOP Resumido de Verilog e VHDL](http://www.decom.ufop.br/alex/arquivos/sist_emb/HDLS.pdf)
