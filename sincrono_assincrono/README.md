@@ -3,6 +3,10 @@
 * [Diferencas](https://vivadifferences.com/difference-between-synchronous-and-asynchronous-data-transmission/)
 * [Diferencas transmissao](https://www.geeksforgeeks.org/difference-between-synchronous-and-asynchronous-transmission/)
 
+# Serial e Paralelo
+
+[i2c, UART and SPI serial communications work with a few examples.](https://www.youtube.com/watch?v=IyGwvGzrqp8)
+
 
 # Imagens 
 
