@@ -1,3 +1,4 @@
+![](https://github.com/arduinoufv/inf150/blob/master/01_codificacao_binaria/FoYz1t8X0AAHCbx.jpeg?raw=true)
 
 Sistemas de Numeração e Codificação: Binário, Complemento de 2, Hexadecimal, ASCII, Aritmética Binária. Codificação Esparsa e Compacta  
 
