@@ -27,4 +27,7 @@
 * [Led simples](https://www.tinkercad.com/things/4rT53V8Q9pY-smooth-fyyran/editel?tenant=circuits?sharecode=0mmKf_vukBadqM1bZLOAO4Fjk9R3EBpW_44szQeKYEg)
 * [Resistores](https://www.tinkercad.com/things/jlqUQjSDpEW-funky-snicket-borwo/editel?tenant=circuits?sharecode=ARvyEfilFFZ7lCXhFHR4HMlTnEScPF9t2y4f7BCwwoI)
 
+# CMOS stick Diagram
+
+* [online tool stixu.io](stixu.io)
 
