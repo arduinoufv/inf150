@@ -29,5 +29,7 @@
 
 # CMOS stick Diagram
 
+* [Ferramenta stixu.io](stixu.io) e um [colab com exemplos](https://colab.research.google.com/drive/1_mz3myeG4swXZl8eZIh8WSS6mnSFVzRH?usp=sharing)
+
 * [online tool stixu.io](stixu.io)
 
