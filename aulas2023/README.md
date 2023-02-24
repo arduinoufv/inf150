@@ -1,13 +1,15 @@
-# Avaliação
+# INF 150 2023
+
+## Avaliação
 * 2 provas de 40 pontos cada 10 de maio e 12 de Julho.
 * 2 trabalhos de 5 pontos
 * 5 listas ou colab de exercicios de 2 pontos
 
-# Referências 
+## Referências 
 
 * [apostilas](https://github.com/arduinoufv/inf150/tree/master/referencias)
 
-# Cronograma e Material
+## Cronograma e Material
 
 * 22/3 - Aula 1 - Introdução e Codificação
 * 29/3  - Aula 2 - Introdução a Algebra Booleana
