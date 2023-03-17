@@ -11,7 +11,12 @@
 
 ## Cronograma e Material
 
-* 22/3 - Aula 1 - Introdução e Codificação
+* 22/3 - Aula 1 - Introdução e Codificação 
+   * [slides](https://docs.google.com/presentation/d/1f4QO6d2Myt0uNKyuH7qeh7tnhesOfRDMRXD0kxMrLkM/edit?usp=sharing)
+   * [Colab em desenvolvimento - Olhar seção de Codificação apenas](https://colab.research.google.com/drive/1mKZ8SBz2f09mlS8-nflmiTEvKsLXgc7i?usp=sharing)
+   * [colab de treino dos anos anteriores](https://colab.research.google.com/drive/1fXos9vwI_qQl2x3kUQ3gy32EuEFAemqm?usp=sharing)
+   * [questionario online para treino](https://forms.gle/n3UvLqZbgGufba1XA)
+   * [ video dos anos anteriores](https://docs.google.com/document/d/1UINeCtoJ_oh4alcWF_FhM0_hwfpp-DaFf34s5P9UtH0/edit?usp=sharing)
 * 29/3  - Aula 2 - Introdução a Algebra Booleana
 * 5/4   - Aula 3 - Tabela Verdade e Soma de Produtos
 * 12/4   - Aula 4 - BitSlice
