@@ -20,6 +20,12 @@
    * [ video dos anos anteriores](https://docs.google.com/document/d/1UINeCtoJ_oh4alcWF_FhM0_hwfpp-DaFf34s5P9UtH0/edit?usp=sharing)
    ![](https://raw.githubusercontent.com/arduinoufv/inf150/master/01_codificacao_binaria/FoYz1t8X0AAHCbx.jpeg)
 * 29/3  - Aula 2 - Introdução a Algebra Booleana
+   * [Colab em desenvolvimento](https://colab.research.google.com/drive/1mKZ8SBz2f09mlS8-nflmiTEvKsLXgc7i?usp=sharing)
+   * [Colab dos anos anteriores](https://colab.research.google.com/drive/1EW_k98yxHdneukezoGCzNojWy38OqBtn?usp=sharing)
+   * [simulador de Verilog Online](https://digitaljs.tilk.eu/)
+   * [slides de portas lógicas e tabela verdade](https://docs.google.com/presentation/d/1GkUW5eD_ZkHe4yXAb5SvtNi0wi1yX2J4IXJ8inCa15c/edit?usp=sharing)
+   * [questionário para treino](https://forms.gle/LfWzP6RbLZ7WyCvH7)
+   * [video de anos anteriores](https://docs.google.com/document/d/1LI4spCMmEfI46gHfFEtAAlIRogcy8UO_rJF38fvyOHI/edit?usp=sharing)
 * 5/4   - Aula 3 - Tabela Verdade e Soma de Produtos
 * 12/4   - Aula 4 - BitSlice
 * 19/4   - Aula 5 - Circuitos CMOS
