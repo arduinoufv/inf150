@@ -17,6 +17,7 @@
    * [colab de treino dos anos anteriores](https://colab.research.google.com/drive/1fXos9vwI_qQl2x3kUQ3gy32EuEFAemqm?usp=sharing)
    * [questionario online para treino](https://forms.gle/n3UvLqZbgGufba1XA)
    * [ video dos anos anteriores](https://docs.google.com/document/d/1UINeCtoJ_oh4alcWF_FhM0_hwfpp-DaFf34s5P9UtH0/edit?usp=sharing)
+   ![](https://raw.githubusercontent.com/arduinoufv/inf150/master/01_codificacao_binaria/FoYz1t8X0AAHCbx.jpeg)
 * 29/3  - Aula 2 - Introdução a Algebra Booleana
 * 5/4   - Aula 3 - Tabela Verdade e Soma de Produtos
 * 12/4   - Aula 4 - BitSlice
