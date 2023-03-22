@@ -1,9 +1,8 @@
 # INF 150 2023
 
 ## Avaliação
-* 2 provas de 40 pontos cada 10 de maio e 12 de Julho.
-* 2 trabalhos de 5 pontos
-* 5 listas ou colab de exercicios de 2 pontos
+* 2 provas de 40 pontos nos dias 10 de maio e 12 de Julho de 2023.
+* 4 trabalhos de 5 pontos
 
 ## Referências 
 
