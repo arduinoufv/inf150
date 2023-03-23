@@ -11,6 +11,8 @@
 ## Cronograma e Material
 
 * 22/3 - Aula 1 - Introdução e Codificação 
+   * [Playlist de Video da Aula](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lTAF_8Zs_xsHgRS6oKpXMe)
+   * [Resposta da Folha de Exercicio da Aula](https://docs.google.com/document/d/1cqq3Q13tjPxvGbMxlI_CgOY6hJ5Q5TpsB8NbBXLNNtU/edit?usp=sharing)
    * [slides](https://docs.google.com/presentation/d/1f4QO6d2Myt0uNKyuH7qeh7tnhesOfRDMRXD0kxMrLkM/edit?usp=sharing)
    * [Colab em desenvolvimento - Olhar seção de Codificação apenas](https://colab.research.google.com/drive/1mKZ8SBz2f09mlS8-nflmiTEvKsLXgc7i?usp=sharing)
    * [apostila](https://github.com/arduinoufv/inf150/blob/master/aulas2023/apostila_codificacao.pdf)
