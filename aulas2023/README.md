@@ -21,6 +21,7 @@
    * [ video dos anos anteriores](https://docs.google.com/document/d/1UINeCtoJ_oh4alcWF_FhM0_hwfpp-DaFf34s5P9UtH0/edit?usp=sharing)
    ![](https://raw.githubusercontent.com/arduinoufv/inf150/master/01_codificacao_binaria/FoYz1t8X0AAHCbx.jpeg)
 * 29/3  - Aula 2 - Introdução a Algebra Booleana
+   * [Crie uma conta e faça os 7 primeiros exercícios](https://hdlbits.01xz.net/wiki/Problem_sets#Getting_Started)
    * [Colab em desenvolvimento](https://colab.research.google.com/drive/1mKZ8SBz2f09mlS8-nflmiTEvKsLXgc7i?usp=sharing)
    * [Colab dos anos anteriores](https://colab.research.google.com/drive/1EW_k98yxHdneukezoGCzNojWy38OqBtn?usp=sharing)
    * [simulador de Verilog Online](https://digitaljs.tilk.eu/)
