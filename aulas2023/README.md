@@ -29,8 +29,10 @@
    * [questionário para treino](https://forms.gle/LfWzP6RbLZ7WyCvH7)
    * [video de anos anteriores](https://docs.google.com/document/d/1LI4spCMmEfI46gHfFEtAAlIRogcy8UO_rJF38fvyOHI/edit?usp=sharing)
 * 5/4   - Aula 3 - Tabela Verdade e Soma de Produtos
-* 12/4   - Aula 4 - BitSlice
-* 19/4   - Aula 5 - Circuitos CMOS
+    * [Colab em desenvolvimento](https://colab.research.google.com/drive/1kUx8TvXmzNM7Gf7J_7-q-1AXZ1ns13J5?usp=sharing)
+    * [slides de portas lógicas e tabela verdade](https://docs.google.com/presentation/d/1GkUW5eD_ZkHe4yXAb5SvtNi0wi1yX2J4IXJ8inCa15c/edit?usp=sharing)
+* 12/4   - Aula 4 - Circuitos CMOS
+* 19/4   - Aula 5 - BitSlice
 * 26/4   - Aula 6 - Introducao a Verilog  
 * 3/5   - Aula 7  - Revisao 
 * 10/5   - Aula 8 - Prova 1 
