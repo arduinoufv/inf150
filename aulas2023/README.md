@@ -22,7 +22,7 @@
    ![](https://raw.githubusercontent.com/arduinoufv/inf150/master/01_codificacao_binaria/FoYz1t8X0AAHCbx.jpeg)
 * 29/3  - Aula 2 - Introdução a Algebra Booleana
    * [Crie uma conta e faça os 7 primeiros exercícios](https://hdlbits.01xz.net/wiki/Problem_sets#Getting_Started)
-   * [Colab em desenvolvimento](https://colab.research.google.com/drive/1mKZ8SBz2f09mlS8-nflmiTEvKsLXgc7i?usp=sharing)
+   * [Colab em desenvolvimento](https://colab.research.google.com/drive/1kUx8TvXmzNM7Gf7J_7-q-1AXZ1ns13J5?usp=sharing)
    * [Colab dos anos anteriores](https://colab.research.google.com/drive/1EW_k98yxHdneukezoGCzNojWy38OqBtn?usp=sharing)
    * [simulador de Verilog Online](https://digitaljs.tilk.eu/)
    * [slides de portas lógicas e tabela verdade](https://docs.google.com/presentation/d/1GkUW5eD_ZkHe4yXAb5SvtNi0wi1yX2J4IXJ8inCa15c/edit?usp=sharing)
