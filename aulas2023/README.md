@@ -23,16 +23,17 @@
 * 29/3  - Aula 2 - Introdução a Algebra Booleana
    * [PLaylist da Gravação da Aula](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mdfzpJl-8pGaCspAvo2kcC)
    * [Resposta da Lista de Exercicios](https://github.com/arduinoufv/inf150/blob/master/aulas2023/answer_portas_logicas.pdf)  + a lista completa de exercicios [com numeração](https://github.com/arduinoufv/inf150/blob/master/aulas2023/lista_portas_logicas.pdf)
-   * [Crie uma conta e faça os 7 primeiros exercícios](https://hdlbits.01xz.net/wiki/Problem_sets#Getting_Started)
    * [Colab em desenvolvimento](https://colab.research.google.com/drive/1kUx8TvXmzNM7Gf7J_7-q-1AXZ1ns13J5?usp=sharing)
    * [Colab dos anos anteriores](https://colab.research.google.com/drive/1EW_k98yxHdneukezoGCzNojWy38OqBtn?usp=sharing)
-   * [simulador de Verilog Online](https://digitaljs.tilk.eu/)
+   * [simulador de Verilog Online Digitaljs](https://digitaljs.tilk.eu/)
    * [slides de portas lógicas e tabela verdade](https://docs.google.com/presentation/d/1GkUW5eD_ZkHe4yXAb5SvtNi0wi1yX2J4IXJ8inCa15c/edit?usp=sharing)
    * [questionário para treino](https://forms.gle/LfWzP6RbLZ7WyCvH7)
    * [video de anos anteriores](https://docs.google.com/document/d/1LI4spCMmEfI46gHfFEtAAlIRogcy8UO_rJF38fvyOHI/edit?usp=sharing)
 * 5/4   - Aula 3 - Tabela Verdade e Soma de Produtos
     * [Colab em desenvolvimento](https://colab.research.google.com/drive/1kUx8TvXmzNM7Gf7J_7-q-1AXZ1ns13J5?usp=sharing)
     * [slides de portas lógicas e tabela verdade](https://docs.google.com/presentation/d/1GkUW5eD_ZkHe4yXAb5SvtNi0wi1yX2J4IXJ8inCa15c/edit?usp=sharing)
+    * [Crie uma conta e faça os 7 primeiros exercícios](https://hdlbits.01xz.net/wiki/Problem_sets#Getting_Started)
+  
 * 12/4   - Aula 4 - Circuitos CMOS
 * 19/4   - Aula 5 - BitSlice
 * 26/4   - Aula 6 - Introducao a Verilog  
