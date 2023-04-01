@@ -31,11 +31,12 @@
    * [video de anos anteriores](https://docs.google.com/document/d/1LI4spCMmEfI46gHfFEtAAlIRogcy8UO_rJF38fvyOHI/edit?usp=sharing)
 * 5/4   - Aula 3 - Tabela Verdade e Soma de Produtos
     * [Trabalho 1 - 10 maio](https://colab.research.google.com/drive/1BuiSa6IKE21KjlfvfajZH1p_HV-kSiuB?usp=sharing)
-    * [Colab em desenvolvimento](https://colab.research.google.com/drive/1kUx8TvXmzNM7Gf7J_7-q-1AXZ1ns13J5?usp=sharing)
+    * [Colab em desenvolvimento](http)s://colab.research.google.com/drive/1kUx8TvXmzNM7Gf7J_7-q-1AXZ1ns13J5?usp=sharing)
     * [slides de portas lógicas e tabela verdade](https://docs.google.com/presentation/d/1GkUW5eD_ZkHe4yXAb5SvtNi0wi1yX2J4IXJ8inCa15c/edit?usp=sharing)
     * [Crie uma conta e faça os 7 primeiros exercícios](https://hdlbits.01xz.net/wiki/Problem_sets#Getting_Started)
   
 * 12/4   - Aula 4 - Circuitos CMOS
+    * [Colab com desenhos e animações](https://colab.research.google.com/drive/1_mz3myeG4swXZl8eZIh8WSS6mnSFVzRH?usp=sharing)
 * 19/4   - Aula 5 - BitSlice
 * 26/4   - Aula 6 - Introducao a Verilog  
 * 3/5   - Aula 7  - Revisao 
