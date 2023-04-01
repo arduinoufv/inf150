@@ -40,7 +40,7 @@
 * 26/4   - Aula 6 - Introducao a Verilog  
 * 3/5   - Aula 7  - Revisao 
 * 10/5   - Aula 8 - Prova 1 
-* 17/5   - Aula 9 - Mapas de Karnaugh
+* 17/5   - Aula 9 - Mapas de Karnaugh [espresso](https://colab.research.google.com/drive/1zRDf7Rgw0fgF-_1u_KUxfO1zwkO93EYZ?usp=sharing)
 * 24/5   - Aula 10 - Dont Care
 * 31/5   - Aula 11 - Decodificadores, Muxes e outros circuitos
 * 7/6   - Aula 12 -  FlipFlop
