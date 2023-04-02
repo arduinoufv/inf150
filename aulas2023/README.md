@@ -32,6 +32,7 @@
 * 5/4   - Aula 3 - Tabela Verdade e Soma de Produtos
     * [Trabalho 1 - 10 maio](https://colab.research.google.com/drive/1BuiSa6IKE21KjlfvfajZH1p_HV-kSiuB?usp=sharing)
     * [Colab em desenvolvimento](http)s://colab.research.google.com/drive/1kUx8TvXmzNM7Gf7J_7-q-1AXZ1ns13J5?usp=sharing)
+    * [Colab de apoio para você fazer a correção dos exercícios](https://colab.research.google.com/drive/1y31hX5Wq2WycFEMu-wza-aKWvCQWlSQw?usp=sharing)
     * [slides de portas lógicas e tabela verdade](https://docs.google.com/presentation/d/1GkUW5eD_ZkHe4yXAb5SvtNi0wi1yX2J4IXJ8inCa15c/edit?usp=sharing)
     * [Crie uma conta e faça os 7 primeiros exercícios](https://hdlbits.01xz.net/wiki/Problem_sets#Getting_Started)
   
