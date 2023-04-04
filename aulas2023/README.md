@@ -31,8 +31,9 @@
    * [video de anos anteriores](https://docs.google.com/document/d/1LI4spCMmEfI46gHfFEtAAlIRogcy8UO_rJF38fvyOHI/edit?usp=sharing)
 * 5/4   - Aula 3 - Tabela Verdade e Soma de Produtos
     * [**Trabalho 1 - 10 maio**](https://colab.research.google.com/drive/1BuiSa6IKE21KjlfvfajZH1p_HV-kSiuB?usp=sharing)
-    * [**Colab em desenvolvimento**](http)s://colab.research.google.com/drive/1kUx8TvXmzNM7Gf7J_7-q-1AXZ1ns13J5?usp=sharing)
+    * [**Colab em desenvolvimento**](https://colab.research.google.com/drive/1kUx8TvXmzNM7Gf7J_7-q-1AXZ1ns13J5?usp=sharing)
     * [**Colab de apoio para você fazer a correção dos exercícios**](https://colab.research.google.com/drive/1y31hX5Wq2WycFEMu-wza-aKWvCQWlSQw?usp=sharing)
+    * [**lista de exercicios**](https://drive.google.com/file/d/1--W5NXHyAUGi1qciiN-YxRrLvHiniXl3/view?usp=sharing) e a [resposta da lista](https://drive.google.com/file/d/1hld6aUR42eBKP4UkdDtW4a7O47mY1wB5/view?usp=sharing)
     * [slides de portas lógicas e tabela verdade](https://docs.google.com/presentation/d/1GkUW5eD_ZkHe4yXAb5SvtNi0wi1yX2J4IXJ8inCa15c/edit?usp=sharing)
     * [Crie uma conta e faça os 7 primeiros exercícios](https://hdlbits.01xz.net/wiki/Problem_sets#Getting_Started)
   
