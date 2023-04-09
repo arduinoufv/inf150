@@ -44,6 +44,8 @@
     * [Lista de exercicios da aula](https://drive.google.com/file/d/1-2zKhwZjzf9PLyEUHJEr55TJY73Fse65/view?usp=sharing) e suas [respostas](https://drive.google.com/file/d/1GKmm5gsR7oYwfVEnADQ6TbARqb8rPi3c/view?usp=sharing)
     * [Video da aula de 2022](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kZy4Ohc086ut6HOpvxSYvP)
 * 19/4   - Aula 5 - BitSlice
+  * [Colab com explicações e vários exemplos: somador, subtrator, Lógica bitslice, ALU, multiplicador em array, raiz quadrada em array, distância de hamming](https://colab.research.google.com/drive/1LjNDVMUuKCJL7grxuLKUKzqZZZYcq60d?usp=sharing)
+  
 * 26/4   - Aula 6 - Introducao a Verilog  
     * [Crie uma conta e faça os 7 primeiros exercícios](https://hdlbits.01xz.net/wiki/Problem_sets#Getting_Started)
 * 3/5   - Aula 7  - Revisao 
