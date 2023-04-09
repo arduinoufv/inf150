@@ -36,7 +36,7 @@
     * [**Colab de apoio para você fazer a correção dos exercícios**](https://colab.research.google.com/drive/1y31hX5Wq2WycFEMu-wza-aKWvCQWlSQw?usp=sharing)
     * [**lista de exercicios**](https://drive.google.com/file/d/1--W5NXHyAUGi1qciiN-YxRrLvHiniXl3/view?usp=sharing) e a [resposta da lista](https://drive.google.com/file/d/1hld6aUR42eBKP4UkdDtW4a7O47mY1wB5/view?usp=sharing)
     * [slides de portas lógicas e tabela verdade](https://docs.google.com/presentation/d/1GkUW5eD_ZkHe4yXAb5SvtNi0wi1yX2J4IXJ8inCa15c/edit?usp=sharing)
-    * [Crie uma conta e faça os 7 primeiros exercícios](https://hdlbits.01xz.net/wiki/Problem_sets#Getting_Started)
+ 
   
 * 12/4   - Aula 4 - Circuitos CMOS
     * [**Colab com desenhos e animações**](https://colab.research.google.com/drive/1_mz3myeG4swXZl8eZIh8WSS6mnSFVzRH?usp=sharing)
@@ -45,6 +45,7 @@
     * [Video da aula de 2022](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kZy4Ohc086ut6HOpvxSYvP)
 * 19/4   - Aula 5 - BitSlice
 * 26/4   - Aula 6 - Introducao a Verilog  
+    * [Crie uma conta e faça os 7 primeiros exercícios](https://hdlbits.01xz.net/wiki/Problem_sets#Getting_Started)
 * 3/5   - Aula 7  - Revisao 
 * 10/5   - Aula 8 - Prova 1 
 * 17/5   - Aula 9 - Mapas de Karnaugh [espresso](https://colab.research.google.com/drive/1zRDf7Rgw0fgF-_1u_KUxfO1zwkO93EYZ?usp=sharing)
