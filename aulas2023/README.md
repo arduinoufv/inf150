@@ -40,6 +40,7 @@
   
 * 12/4   - Aula 4 - Circuitos CMOS
 ![](https://pbs.twimg.com/media/FtNi0UHaEAA5prq?format=jpg&name=small)
+    * [**Slides da Emicro**](https://www.inf.ufrgs.br/sim-emicro/papers/emicro_curso_paulo.pdf)
     * [**Colab com desenhos e animações**](https://colab.research.google.com/drive/1_mz3myeG4swXZl8eZIh8WSS6mnSFVzRH?usp=sharing)
     * [**Trabalho 2**](https://colab.research.google.com/drive/1ItKAWdqBL1CnEr5Nyxw_HVjU54Ko9hWi?usp=sharing)
     * [Lista de exercicios da aula](https://drive.google.com/file/d/1-2zKhwZjzf9PLyEUHJEr55TJY73Fse65/view?usp=sharing) e suas [respostas](https://drive.google.com/file/d/1GKmm5gsR7oYwfVEnADQ6TbARqb8rPi3c/view?usp=sharing)
