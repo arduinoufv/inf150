@@ -47,6 +47,7 @@
     * [Lista de exercicios da aula](https://drive.google.com/file/d/1-2zKhwZjzf9PLyEUHJEr55TJY73Fse65/view?usp=sharing) e suas [respostas](https://drive.google.com/file/d/1GKmm5gsR7oYwfVEnADQ6TbARqb8rPi3c/view?usp=sharing)
     * [Video da aula de 2022](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kZy4Ohc086ut6HOpvxSYvP)
 * 19/4   - Aula 5 - BitSlice
+  * [Playlist da aula - video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nlxIDuEPxc3ggypgtxCcYK)
   * [Colab com explicações e vários exemplos: somador, subtrator, Lógica bitslice, ALU, multiplicador em array, raiz quadrada em array, distância de hamming](https://colab.research.google.com/drive/1LjNDVMUuKCJL7grxuLKUKzqZZZYcq60d?usp=sharing)
   * [Exercicios da aula](https://github.com/arduinoufv/inf150/blob/master/aulas2023/merged%20(4).pdf) e as [respostas](https://github.com/arduinoufv/inf150/blob/master/aulas2023/answer%20(6).pdf)
   
