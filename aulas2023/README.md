@@ -55,8 +55,9 @@
     * [Playlist da aula](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lJunv7z4zsRW5aiwRQqVQm)
     * [Colab com introdução a Verilog e exercício](https://colab.research.google.com/drive/1suVDyByBbvu8xugBTyiYrHu8VN6d8se1?usp=sharing)
     * [Crie uma conta e faça os 7 primeiros exercícios](https://hdlbits.01xz.net/wiki/Problem_sets#Getting_Started)
-* 3/5   - Aula 7  - Revisao 
-* 10/5   - Aula 8 - Prova 1 
+* 3/5   - Aula 7  - Revisao
+     * [playlist de revisao](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lFHBc4q16LZgYUeGwDI9Ll) 
+* 10/5   - Aula 8 - Prova 1
 * 17/5   - Aula 9 - Mapas de Karnaugh [espresso](https://colab.research.google.com/drive/1zRDf7Rgw0fgF-_1u_KUxfO1zwkO93EYZ?usp=sharing)
 * 24/5   - Aula 10 - Dont Care
 * 31/5   - Aula 11 - Decodificadores, Muxes e outros circuitos
