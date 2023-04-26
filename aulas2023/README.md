@@ -52,6 +52,7 @@
   * [Exercicios da aula](https://github.com/arduinoufv/inf150/blob/master/aulas2023/merged%20(4).pdf) e as [respostas](https://github.com/arduinoufv/inf150/blob/master/aulas2023/answer%20(6).pdf)
   
 * 26/4   - Aula 6 - Introducao a Verilog  
+    * [Playlist da aula](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lJunv7z4zsRW5aiwRQqVQm)
     * [Colab com introdução a Verilog e exercício](https://colab.research.google.com/drive/1suVDyByBbvu8xugBTyiYrHu8VN6d8se1?usp=sharing)
     * [Crie uma conta e faça os 7 primeiros exercícios](https://hdlbits.01xz.net/wiki/Problem_sets#Getting_Started)
 * 3/5   - Aula 7  - Revisao 
