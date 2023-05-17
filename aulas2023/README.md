@@ -58,7 +58,7 @@
 * 3/5   - Aula 7  - Revisao
      * [playlist de revisao](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lFHBc4q16LZgYUeGwDI9Ll) ficou sem audio, irei regravar
 * 10/5   - Aula 8 - Prova 1 [exemplo de prova](https://github.com/arduinoufv/inf150/blob/master/aulas2023/P1_2022_inf150.pdf)
-* 17/5   - Aula 9 - Mapas de Karnaugh [espresso](https://colab.research.google.com/drive/1zRDf7Rgw0fgF-_1u_KUxfO1zwkO93EYZ?usp=sharing)
+* 17/5   - Aula 9 - [Playlist de Mapas de Karnaugh](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kwvXCYln8zGBa0a6BU6FoY) e o  [Colab para correção dos exercicios](https://colab.research.google.com/drive/1CiKTmB80r3CuZT8E3-lXIkYce9zhLNyG?usp=sharing)
 * 24/5   - Aula 10 - Dont Care
 * 31/5   - Aula 11 - Decodificadores, Muxes e outros circuitos
 * 7/6   - Aula 12 -  FlipFlop
