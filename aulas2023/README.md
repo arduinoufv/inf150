@@ -59,8 +59,8 @@
      * [playlist de revisao](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lFHBc4q16LZgYUeGwDI9Ll) ficou sem audio, irei regravar
 * 10/5   - Aula 8 - Prova 1 [exemplo de prova](https://github.com/arduinoufv/inf150/blob/master/aulas2023/P1_2022_inf150.pdf)
 * 17/5   - Aula 9 - [Playlist de Mapas de Karnaugh](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kwvXCYln8zGBa0a6BU6FoY) e o  [Colab para correção dos exercicios](https://colab.research.google.com/drive/19aJ1oDwK5JUYXYPB2dWbPCNop1dAfjS_?usp=sharing) e a folha com os enunciados [dos exercicios](https://drive.google.com/file/d/1-JrRzb7MWTtMG1-y2G3ev2iVxOM2I0sm/view?usp=sharing)
-* 24/5   - Aula 10 - [Play list de Video sobre Dont Care]() mais o colab [com os exemplos da aula](https://colab.research.google.com/drive/1_bViy1QEU1QLEMN65p_UunLLkzh26JDc?usp=sharing) e a correção da [lista de exercícios](https://colab.research.google.com/drive/1yZjkn7F3TyocJ0m-xLGl2JyJm6ViE9Xu?usp=sharing)
-    * [trabalho 3 de comparador com Dont Care para entregar antes da segunda prova 11/7](https://colab.research.google.com/drive/1dYrw0OB5jS0U_br-PWxoaZjoycNU4uMz?usp=sharing), submeter no [form](https://forms.gle/L9w6tkmjzkcM1NVd7)
+* 24/5   - Aula 10 - [Play list de Video sobre Dont Care](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mRXvm_vNffo0LEHDdqu1T5) mais o colab [com os exemplos da aula](https://colab.research.google.com/drive/1_bViy1QEU1QLEMN65p_UunLLkzh26JDc?usp=sharing) e a correção da [lista de exercícios](https://colab.research.google.com/drive/1yZjkn7F3TyocJ0m-xLGl2JyJm6ViE9Xu?usp=sharing)
+    * [trabalho 3 de comparador com Dont Care para entregar antes da segunda prova 11/7](https://colab.research.google.com/drive/1dYrw0OB5jS0U_br-PWxoaZjoycNU4uMz?usp=sharing), submeter no [form](https://forms.gle/L9w6tkmjzkcM1NVd7) para dicas e [instruções clique aqui](https://www.youtube.com/watch?v=LP0E4IzmXOI&list=PLcvOyD_LMr6kxwspDour5cOKLJIcQy2n8&index=1)
 * 31/5   - Aula 11 - Decodificadores, Muxes e outros circuitos
 * 7/6   - Aula 12 -  FlipFlop
 * 14/6   - Aula 13 - Registradores e Contadores
