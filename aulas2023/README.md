@@ -61,8 +61,9 @@
 * 17/5   - Aula 9 - [Playlist de Mapas de Karnaugh](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kwvXCYln8zGBa0a6BU6FoY) e o  [Colab para correção dos exercicios](https://colab.research.google.com/drive/19aJ1oDwK5JUYXYPB2dWbPCNop1dAfjS_?usp=sharing) e a folha com os enunciados [dos exercicios](https://drive.google.com/file/d/1-JrRzb7MWTtMG1-y2G3ev2iVxOM2I0sm/view?usp=sharing)
 * 24/5   - Aula 10 - [Play list de Video sobre Dont Care](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mRXvm_vNffo0LEHDdqu1T5) mais o colab [com os exemplos da aula](https://colab.research.google.com/drive/1_bViy1QEU1QLEMN65p_UunLLkzh26JDc?usp=sharing) e a correção da [lista de exercícios](https://colab.research.google.com/drive/1yZjkn7F3TyocJ0m-xLGl2JyJm6ViE9Xu?usp=sharing)
     * [trabalho 3 de comparador com Dont Care para entregar antes da segunda prova 11/7](https://colab.research.google.com/drive/1dYrw0OB5jS0U_br-PWxoaZjoycNU4uMz?usp=sharing), submeter no [form](https://forms.gle/L9w6tkmjzkcM1NVd7) para dicas e [instruções clique aqui](https://www.youtube.com/watch?v=LP0E4IzmXOI&list=PLcvOyD_LMr6kxwspDour5cOKLJIcQy2n8&index=1)
-* 31/5   - Aula 11 - Decodificadores, Muxes e outros circuitos
-* 7/6   - Aula 12 -  FlipFlop
+* 31/5   - Aula 11 - [Decodificadores, Muxes e outros circuitos - playlist](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lPRo3qTXX5s4uBb-WJn8Ia) --- [Colab](https://colab.research.google.com/drive/1GkhgwvcmEflAuuwC5xNmEIpd9XFS8_i9?usp=sharing) ---
+    * [trabalho 4 - Codificador de Prioridade](https://www.youtube.com/playlist?list=PLcvOyD_LMr6niXoQ7EQK23ahBcbQyeJH1) --- [Colab](https://colab.research.google.com/drive/1GkhgwvcmEflAuuwC5xNmEIpd9XFS8_i9?usp=sharing)
+* 7/6   - Aula 12 -  [FlipFlop playlist]() [colab](https://colab.research.google.com/drive/1nb7dYUzvN0loS9LYLdwYs283UifwkKiu?usp=sharing) --- [questionario](https://drive.google.com/file/d/1i23Q_YGyA1klP7uiZG8D9yrtapSD2qvr/view?usp=sharing)
 * 14/6   - Aula 13 - Registradores e Contadores
 * 21/6   - Aula 14 - Memorias
 * 28/6   - Aula 15 - Analogico Digital
