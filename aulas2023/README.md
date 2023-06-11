@@ -64,9 +64,9 @@
 * 31/5   - Aula 11 - [Decodificadores, Muxes e outros circuitos - playlist](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lPRo3qTXX5s4uBb-WJn8Ia) --- [Colab](https://colab.research.google.com/drive/1GkhgwvcmEflAuuwC5xNmEIpd9XFS8_i9?usp=sharing) ---
     * [trabalho 4 - Codificador de Prioridade](https://www.youtube.com/playlist?list=PLcvOyD_LMr6niXoQ7EQK23ahBcbQyeJH1) --- [Colab](https://colab.research.google.com/drive/1GkhgwvcmEflAuuwC5xNmEIpd9XFS8_i9?usp=sharing)
 * 7/6   - Aula 12 -  [FlipFlop playlist](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nH0E8YpjvyLIL-oc_g8jw-) [colab](https://colab.research.google.com/drive/1nb7dYUzvN0loS9LYLdwYs283UifwkKiu?usp=sharing) --- [questionario](https://drive.google.com/file/d/1i23Q_YGyA1klP7uiZG8D9yrtapSD2qvr/view?usp=sharing)
-* 14/6   - Aula 13 - Registradores e Contadores
-* 21/6   - Aula 14 - Memorias
-* 28/6   - Aula 15 - Analogico Digital
+* 14/6   - Aula 13 - Memorias e FPGA
+* 21/6   - Aula 14 - Analogico Digital e Transmissao de Dados
+* 28/6   - Aula 15 - Revisao
 * 5/7 - Aula 16 - Revisao
 * 12/7 - Aula 17 - Prova
  
