@@ -7,6 +7,7 @@
 ## Referências 
 
 * [apostilas](https://github.com/arduinoufv/inf150/tree/master/referencias)
+* [Outro simulador JAVA exporta Verilog](https://github.com/hneemann/Digital)
 
 ## Cronograma e Material
 
