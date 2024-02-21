@@ -12,18 +12,25 @@
 
 ## Cronograma e Material
 
-* 6/3 - Aula 1 - Introdução e Codificação 
-   * [**Playlist de Video da Aula**](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lTAF_8Zs_xsHgRS6oKpXMe)
-   * [**Resposta da Folha de Exercicio da Aula**](https://docs.google.com/document/d/1cqq3Q13tjPxvGbMxlI_CgOY6hJ5Q5TpsB8NbBXLNNtU/edit?usp=sharing)
-   * [slides](https://docs.google.com/presentation/d/1f4QO6d2Myt0uNKyuH7qeh7tnhesOfRDMRXD0kxMrLkM/edit?usp=sharing)
-   * [Colab em desenvolvimento - Olhar seção de Codificação apenas](https://colab.research.google.com/drive/1mKZ8SBz2f09mlS8-nflmiTEvKsLXgc7i?usp=sharing)
-   * [apostila](https://github.com/arduinoufv/inf150/blob/master/aulas2023/apostila_codificacao.pdf)
-   * [Demo com inteiros](https://integer.exposed/)
+### 6/3 - Aula 1 - Introdução e Codificação
+    * [playlist de video com a aula]()
+    > [!IMPORTANT]
+    > [Folha de exercício, cada lista é diferente](https://drive.google.com/file/d/1hVYZJdLe7PYeeJi03vZbT9mWAdDpBWUa/view?usp=sharing)
+    * [**Resposta da Folha de Exercicio da Aula**](https://docs.google.com/document/d/1cqq3Q13tjPxvGbMxlI_CgOY6hJ5Q5TpsB8NbBXLNNtU/edit?usp=sharing)
+    > [!NOTE]
+    > [Colab em desenvolvimento - Olhar seção de Codificação apenas](https://colab.research.google.com/drive/1mKZ8SBz2f09mlS8-nflmiTEvKsLXgc7i?usp=sharing)
+    
+#### Material Complementar para consulta
+    * [apostila texto com conversão de base e aritmética binária](https://github.com/arduinoufv/inf150/blob/master/aulas2023/apostila_codificacao.pdf) 
+    * [slides com conversão de base e aritmética binária](https://docs.google.com/presentation/d/1f4QO6d2Myt0uNKyuH7qeh7tnhesOfRDMRXD0kxMrLkM/edit?usp=sharing)
+    * [Demo com inteiros](https://integer.exposed/)
+    * [**questionario online para treino**](https://forms.gle/n3UvLqZbgGufba1XA)
+    * [**Playlist de Video da Aula de 2023 **](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lTAF_8Zs_xsHgRS6oKpXMe)
    * [colab de treino dos anos anteriores](https://colab.research.google.com/drive/1fXos9vwI_qQl2x3kUQ3gy32EuEFAemqm?usp=sharing)
-   * [**questionario online para treino**](https://forms.gle/n3UvLqZbgGufba1XA)
    * [ video dos anos anteriores](https://docs.google.com/document/d/1UINeCtoJ_oh4alcWF_FhM0_hwfpp-DaFf34s5P9UtH0/edit?usp=sharing)
    * [**Experimente Memory Spy](https://memory-spy.wizardzines.com/game.html)
    ![](https://raw.githubusercontent.com/arduinoufv/inf150/master/01_codificacao_binaria/FoYz1t8X0AAHCbx.jpeg)
+
 (Em construção)
 * 13/3  - Aula 2 - Introdução a Algebra Booleana
    * [**PLaylist da Gravação da Aula**](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mdfzpJl-8pGaCspAvo2kcC)
