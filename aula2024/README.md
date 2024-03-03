@@ -36,6 +36,7 @@
 * [ video dos anos anteriores](https://docs.google.com/document/d/1UINeCtoJ_oh4alcWF_FhM0_hwfpp-DaFf34s5P9UtH0/edit?usp=sharing)
 * [**Experimente Memory Spy](https://memory-spy.wizardzines.com/game.html)
 ![](https://raw.githubusercontent.com/arduinoufv/inf150/master/01_codificacao_binaria/FoYz1t8X0AAHCbx.jpeg)
+![](https://github.com/arduinoufv/dicas/blob/master/figuras/coding.png?raw=true)
 
 ---
 (Em construção)
