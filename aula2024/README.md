@@ -13,6 +13,9 @@
 ## Cronograma e Material
 
 ### 6/3 - Aula 1 - Introdução e Codificação
+![](https://github.com/arduinoufv/dicas/blob/master/figuras/clock.png?raw=true)
+![](https://github.com/arduinoufv/dicas/blob/master/figuras/clock1.png?raw=true)
+![](https://github.com/arduinoufv/dicas/blob/master/figuras/clock3.png?raw=true)
 
 * [playlist de video com a aula]()
 * [Folha de exercício, cada lista é diferente](https://drive.google.com/file/d/1hVYZJdLe7PYeeJi03vZbT9mWAdDpBWUa/view?usp=sharing)
