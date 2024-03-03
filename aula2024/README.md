@@ -1,4 +1,5 @@
 # INF 150 2024 
+![](https://github.com/arduinoufv/dicas/blob/master/figuras/motivation.png?raw=true)
 
 ## Avaliação
 * 2 provas de 40 pontos nos dias 24 de abril e 26 de Junho de 2024.
