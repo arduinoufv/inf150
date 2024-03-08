@@ -18,7 +18,7 @@
 ![](https://github.com/arduinoufv/dicas/blob/master/figuras/clock1.png?raw=true)
 ![](https://github.com/arduinoufv/dicas/blob/master/figuras/clock3.png?raw=true)
 
-* [playlist de video com a aula](https://www.youtube.com/playlist?list=PLcvOyD_LMr6ntqWreNISbx1WEdp8sjVT3)
+* [playlist de video com a aula (**está sem SOM....vou ver como resolver**](https://www.youtube.com/playlist?list=PLcvOyD_LMr6ntqWreNISbx1WEdp8sjVT3)
 * [Folha de exercício, cada lista é diferente](https://drive.google.com/file/d/1hVYZJdLe7PYeeJi03vZbT9mWAdDpBWUa/view?usp=sharing)
 * [**Resposta da Folha de Exercicio da Aula**](https://docs.google.com/document/d/1cqq3Q13tjPxvGbMxlI_CgOY6hJ5Q5TpsB8NbBXLNNtU/edit?usp=sharing)
 * [Colab em desenvolvimento - Olhar seção de Sistemas de Numeração apenas](https://colab.research.google.com/drive/19Hx2VVszGURzVRCw6IQqC9SXse4hBxse?usp=sharing)
