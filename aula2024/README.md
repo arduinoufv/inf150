@@ -42,7 +42,7 @@
 ### 13/3  - Aula 2 - Introdução a Algebra Booleana
 
    * [**Resposta da Lista de Exercicios**](https://github.com/arduinoufv/inf150/blob/master/aulas2023/answer_portas_logicas.pdf)  + a lista completa de exercicios [**com numeração**](https://github.com/arduinoufv/inf150/blob/master/aulas2023/lista_portas_logicas.pdf)
-   * [**Colab em desenvolvimento**](https://colab.research.google.com/drive/1kUx8TvXmzNM7Gf7J_7-q-1AXZ1ns13J5?usp=sharing)
+   * [Material complementar do Livro](https://colab.research.google.com/drive/19Hx2VVszGURzVRCw6IQqC9SXse4hBxse?usp=sharing)
    * [Colab dos anos anteriores](https://colab.research.google.com/drive/1EW_k98yxHdneukezoGCzNojWy38OqBtn?usp=sharing)
    * [**simulador de Verilog Online Digitaljs**](https://digitaljs.tilk.eu/)
    * [slides de portas lógicas e tabela verdade](https://docs.google.com/presentation/d/1GkUW5eD_ZkHe4yXAb5SvtNi0wi1yX2J4IXJ8inCa15c/edit?usp=sharing)
