@@ -39,9 +39,9 @@
 ![](https://github.com/arduinoufv/dicas/blob/master/figuras/coding.png?raw=true)
 
 ---
-(Em construção)
+
 * 13/3  - Aula 2 - Introdução a Algebra Booleana
-   * [**PLaylist da Gravação da Aula**](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mdfzpJl-8pGaCspAvo2kcC)
+
    * [**Resposta da Lista de Exercicios**](https://github.com/arduinoufv/inf150/blob/master/aulas2023/answer_portas_logicas.pdf)  + a lista completa de exercicios [**com numeração**](https://github.com/arduinoufv/inf150/blob/master/aulas2023/lista_portas_logicas.pdf)
    * [**Colab em desenvolvimento**](https://colab.research.google.com/drive/1kUx8TvXmzNM7Gf7J_7-q-1AXZ1ns13J5?usp=sharing)
    * [Colab dos anos anteriores](https://colab.research.google.com/drive/1EW_k98yxHdneukezoGCzNojWy38OqBtn?usp=sharing)
@@ -49,6 +49,13 @@
    * [slides de portas lógicas e tabela verdade](https://docs.google.com/presentation/d/1GkUW5eD_ZkHe4yXAb5SvtNi0wi1yX2J4IXJ8inCa15c/edit?usp=sharing)
    * [**questionário para treino**](https://forms.gle/LfWzP6RbLZ7WyCvH7)
    * [video de anos anteriores](https://docs.google.com/document/d/1LI4spCMmEfI46gHfFEtAAlIRogcy8UO_rJF38fvyOHI/edit?usp=sharing)
+
+---
+* Material Complementar da Aula 2
+  * [**PLaylist da Gravação da Aula 2023**](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mdfzpJl-8pGaCspAvo2kcC)
+
+(Em construção) 
+    
 * 20/3   - Aula 3 - Tabela Verdade e Soma de Produtos
     * [**Playlist da Aula 3**](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mSSEuvSk5b2Pj0-pX1D0dK)
     * [**Trabalho 1 - 10 maio**](https://colab.research.google.com/drive/1BuiSa6IKE21KjlfvfajZH1p_HV-kSiuB?usp=sharing) e neste [link terão vídeos de apoio](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lXoCuJu1nT6M9yejqk4Kz6) - Para entregar [Preencher o formulario com o link do seu Colab](https://forms.gle/xbWywZe8C6hyCVAs9)
@@ -82,6 +89,7 @@
   * [Playlist da aula - video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nlxIDuEPxc3ggypgtxCcYK)
   * [Colab com explicações e vários exemplos: somador, subtrator, Lógica bitslice, ALU, multiplicador em array, raiz quadrada em array, distância de hamming](https://colab.research.google.com/drive/1LjNDVMUuKCJL7grxuLKUKzqZZZYcq60d?usp=sharing)
   * [Exercicios da aula](https://github.com/arduinoufv/inf150/blob/master/aulas2023/merged%20(4).pdf) e as [respostas](https://github.com/arduinoufv/inf150/blob/master/aulas2023/answer%20(6).pdf)
+  * [Circuitos aritméticos e ALUs slides do ETH](https://safari.ethz.ch/ddca/spring2024/lib/exe/fetch.php?media=07_arithmeticcircuits.pdf)
   
 
 * 3/5   - Aula 7  - Revisao
