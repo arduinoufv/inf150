@@ -39,8 +39,7 @@
 ![](https://github.com/arduinoufv/dicas/blob/master/figuras/coding.png?raw=true)
 
 ---
-
-* 13/3  - Aula 2 - Introdução a Algebra Booleana
+### 13/3  - Aula 2 - Introdução a Algebra Booleana
 
    * [**Resposta da Lista de Exercicios**](https://github.com/arduinoufv/inf150/blob/master/aulas2023/answer_portas_logicas.pdf)  + a lista completa de exercicios [**com numeração**](https://github.com/arduinoufv/inf150/blob/master/aulas2023/lista_portas_logicas.pdf)
    * [**Colab em desenvolvimento**](https://colab.research.google.com/drive/1kUx8TvXmzNM7Gf7J_7-q-1AXZ1ns13J5?usp=sharing)
@@ -48,11 +47,13 @@
    * [**simulador de Verilog Online Digitaljs**](https://digitaljs.tilk.eu/)
    * [slides de portas lógicas e tabela verdade](https://docs.google.com/presentation/d/1GkUW5eD_ZkHe4yXAb5SvtNi0wi1yX2J4IXJ8inCa15c/edit?usp=sharing)
    * [**questionário para treino**](https://forms.gle/LfWzP6RbLZ7WyCvH7)
-   * [video de anos anteriores](https://docs.google.com/document/d/1LI4spCMmEfI46gHfFEtAAlIRogcy8UO_rJF38fvyOHI/edit?usp=sharing)
-
+   
 ---
-* Material Complementar da Aula 2
+#### Material Complementar para consulta da aula 2
+
   * [**PLaylist da Gravação da Aula 2023**](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mdfzpJl-8pGaCspAvo2kcC)
+  * [video de anos anteriores](https://docs.google.com/document/d/1LI4spCMmEfI46gHfFEtAAlIRogcy8UO_rJF38fvyOHI/edit?usp=sharing)
+
 
 (Em construção) 
     
