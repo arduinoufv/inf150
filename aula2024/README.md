@@ -44,18 +44,16 @@
    * [**Resposta da Lista de Exercicios**](https://github.com/arduinoufv/inf150/blob/master/aulas2023/answer_portas_logicas.pdf)  + a lista completa de exercicios [**com numeração**](https://github.com/arduinoufv/inf150/blob/master/aulas2023/lista_portas_logicas.pdf)
    * [Material complementar do Livro](https://colab.research.google.com/drive/19Hx2VVszGURzVRCw6IQqC9SXse4hBxse?usp=sharing)
    * [Colab dos anos anteriores](https://colab.research.google.com/drive/1EW_k98yxHdneukezoGCzNojWy38OqBtn?usp=sharing)
+---
+#### Material Complementar para consulta da aula 2
+
+   * [**PLaylist da Gravação da Aula 2023**](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mdfzpJl-8pGaCspAvo2kcC)
+   * [video de anos anteriores](https://docs.google.com/document/d/1LI4spCMmEfI46gHfFEtAAlIRogcy8UO_rJF38fvyOHI/edit?usp=sharing)
    * [**simulador de Verilog Online Digitaljs**](https://digitaljs.tilk.eu/)
    * [slides de portas lógicas e tabela verdade](https://docs.google.com/presentation/d/1GkUW5eD_ZkHe4yXAb5SvtNi0wi1yX2J4IXJ8inCa15c/edit?usp=sharing)
    * [**questionário para treino**](https://forms.gle/LfWzP6RbLZ7WyCvH7)
    * [Simulador simples de portas no Navegador](https://academo.org/demos/logic-gate-simulator/)
    * [Simulador Online com um pouco mais de recursos](https://logic.ly/demo/)
-   
----
-#### Material Complementar para consulta da aula 2
-
-  * [**PLaylist da Gravação da Aula 2023**](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mdfzpJl-8pGaCspAvo2kcC)
-  * [video de anos anteriores](https://docs.google.com/document/d/1LI4spCMmEfI46gHfFEtAAlIRogcy8UO_rJF38fvyOHI/edit?usp=sharing)
-
 
 (Em construção) 
     
@@ -76,6 +74,7 @@
     * [**Trabalho 2**](https://colab.research.google.com/drive/1ItKAWdqBL1CnEr5Nyxw_HVjU54Ko9hWi?usp=sharing), além de ver os 2 ultimos videos da aula, ver os [videos do trabalho 2](https://www.youtube.com/playlist?list=PLcvOyD_LMr6msXz6Yo0aZEY86CnmUg9iw) - Para enviar o trabalho 2 [neste form](https://forms.gle/6CNy9iwgGUsfBkc98)
     * [Lista de exercicios da aula](https://drive.google.com/file/d/1-2zKhwZjzf9PLyEUHJEr55TJY73Fse65/view?usp=sharing) e suas [respostas](https://drive.google.com/file/d/1GKmm5gsR7oYwfVEnADQ6TbARqb8rPi3c/view?usp=sharing)
     * [Video da aula de 2022](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kZy4Ohc086ut6HOpvxSYvP)
+    * [7400 layout](https://upload.wikimedia.org/wikipedia/commons/7/74/NXP-74AHC00D-HD-HQ.jpg)
 
 * 3/4   - Aula 5 - Introducao a Verilog  
     * [Playlist da aula](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lJunv7z4zsRW5aiwRQqVQm) ficou sem audio, irei regravar
