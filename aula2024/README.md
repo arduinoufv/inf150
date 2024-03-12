@@ -47,6 +47,8 @@
    * [**simulador de Verilog Online Digitaljs**](https://digitaljs.tilk.eu/)
    * [slides de portas lógicas e tabela verdade](https://docs.google.com/presentation/d/1GkUW5eD_ZkHe4yXAb5SvtNi0wi1yX2J4IXJ8inCa15c/edit?usp=sharing)
    * [**questionário para treino**](https://forms.gle/LfWzP6RbLZ7WyCvH7)
+   * [Simulador simples de portas no Navegador](https://academo.org/demos/logic-gate-simulator/)
+   * [Simulador Online com um pouco mais de recursos](https://logic.ly/demo/)
    
 ---
 #### Material Complementar para consulta da aula 2
