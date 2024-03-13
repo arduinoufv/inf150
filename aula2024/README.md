@@ -41,6 +41,7 @@
 ---
 ### 13/3  - Aula 2 - Introdução a Algebra Booleana
 
+   * [Gravação da Aula](https://www.youtube.com/playlist?list=PLcvOyD_LMr6m-AAiXNsZM5ryANvUe5ww3)
    * [**Resposta da Lista de Exercicios**](https://github.com/arduinoufv/inf150/blob/master/aulas2023/answer_portas_logicas.pdf)  + a lista completa de exercicios [**com numeração**](https://github.com/arduinoufv/inf150/blob/master/aulas2023/lista_portas_logicas.pdf)
    * [Material complementar do Livro](https://colab.research.google.com/drive/19Hx2VVszGURzVRCw6IQqC9SXse4hBxse?usp=sharing)
    * [Colab dos anos anteriores para fazer correção dos exercícios de aula](https://colab.research.google.com/drive/1EW_k98yxHdneukezoGCzNojWy38OqBtn?usp=sharing)
