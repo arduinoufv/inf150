@@ -60,7 +60,7 @@
     
 ### 20/3 - Aula 3 - Tabela Verdade e Soma de Produtos
     
-  * [**Colab em desenvolvimento**](https://colab.research.google.com/drive/1kUx8TvXmzNM7Gf7J_7-q-1AXZ1ns13J5?usp=sharing)
+  * [**Colab do livro**](https://colab.research.google.com/drive/19Hx2VVszGURzVRCw6IQqC9SXse4hBxse?usp=sharing)
   * [**Colab de apoio para você fazer a correção dos exercícios**](https://colab.research.google.com/drive/1y31hX5Wq2WycFEMu-wza-aKWvCQWlSQw?usp=sharing)
   * [**lista de exercicios**](https://drive.google.com/file/d/1--W5NXHyAUGi1qciiN-YxRrLvHiniXl3/view?usp=sharing) e a [resposta da lista](https://drive.google.com/file/d/1hld6aUR42eBKP4UkdDtW4a7O47mY1wB5/view?usp=sharing)
 * [slides de portas lógicas e tabela verdade](https://docs.google.com/presentation/d/1GkUW5eD_ZkHe4yXAb5SvtNi0wi1yX2J4IXJ8inCa15c/edit?usp=sharing)
