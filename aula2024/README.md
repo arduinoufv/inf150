@@ -75,11 +75,13 @@
   * [**Trabalho 1 de 2023 (ano passado) não precisa fazer...só de exemplo**](https://colab.research.google.com/drive/1BuiSa6IKE21KjlfvfajZH1p_HV-kSiuB?usp=sharing) e neste [link terão vídeos de apoio](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lXoCuJu1nT6M9yejqk4Kz6) 
     
  ---
+ 
 ###  27/3   - Aula 4 - Circuitos CMOS
-    * [**Slides da Emicro**](https://www.inf.ufrgs.br/sim-emicro/papers/emicro_curso_paulo.pdf)
-    * [**Colab com desenhos e animações**](https://colab.research.google.com/drive/1_mz3myeG4swXZl8eZIh8WSS6mnSFVzRH?usp=sharing)
-    * [Lista de exercicios da aula](https://drive.google.com/file/d/1-2zKhwZjzf9PLyEUHJEr55TJY73Fse65/view?usp=sharing) e suas [respostas](https://drive.google.com/file/d/1GKmm5gsR7oYwfVEnADQ6TbARqb8rPi3c/view?usp=sharing)
-    * [7400 layout](https://upload.wikimedia.org/wikipedia/commons/7/74/NXP-74AHC00D-HD-HQ.jpg)
+
+* [**Slides da Emicro**](https://www.inf.ufrgs.br/sim-emicro/papers/emicro_curso_paulo.pdf)
+* [**Colab com desenhos e animações**](https://colab.research.google.com/drive/1_mz3myeG4swXZl8eZIh8WSS6mnSFVzRH?usp=sharing)
+* [Lista de exercicios da aula](https://drive.google.com/file/d/1-2zKhwZjzf9PLyEUHJEr55TJY73Fse65/view?usp=sharing) e suas [respostas](https://drive.google.com/file/d/1GKmm5gsR7oYwfVEnADQ6TbARqb8rPi3c/view?usp=sharing)
+* [7400 layout](https://upload.wikimedia.org/wikipedia/commons/7/74/NXP-74AHC00D-HD-HQ.jpg)
 
  #### Material complementar
  
