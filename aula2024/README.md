@@ -69,6 +69,7 @@
 * [Trabalho 1- Contador de bits para entregar 11 abril 2024](https://colab.research.google.com/drive/1L7aLgDujDCj48F6FeZUZLTcxCE3YZ0hc?usp=sharing)
 * [Colab de exemplo mas que faz um contador de ZEROS...o trabalho é contador de UM...](https://colab.research.google.com/drive/1kxcLFhfdJFBQJggrS0Pqz9pBMPr7uIT9?usp=sharing)
 * [Videos com dicas para o trabalho 1, mostrando exemplo do contador de ZEROs e dicas para adaptar para contador de UM](https://www.youtube.com/watch?v=vZjQJ5y5PAw&list=PLcvOyD_LMr6m-MsJNXrySjG4tph6_jQJn&index=4)
+* [Dicas para Colab](https://www.youtube.com/playlist?list=PLzj-vuiuluGbjZASzUe8r7aIhNm0J7yLE)
 ----
 #### Material Complementar 
   * [**Playlist da Aula 3 - 2023**](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mSSEuvSk5b2Pj0-pX1D0dK)
