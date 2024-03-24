@@ -82,6 +82,7 @@
 * [**Colab com desenhos e animações**](https://colab.research.google.com/drive/1_mz3myeG4swXZl8eZIh8WSS6mnSFVzRH?usp=sharing)
 * [Lista de exercicios da aula](https://drive.google.com/file/d/1-2zKhwZjzf9PLyEUHJEr55TJY73Fse65/view?usp=sharing) e suas [respostas](https://drive.google.com/file/d/1GKmm5gsR7oYwfVEnADQ6TbARqb8rPi3c/view?usp=sharing)
 * [7400 layout](https://upload.wikimedia.org/wikipedia/commons/7/74/NXP-74AHC00D-HD-HQ.jpg)
+* [74181 ALU engenharia reserva](http://www.righto.com/2017/01/die-photos-and-reverse-engineering.html)
 
  #### Material complementar
  
