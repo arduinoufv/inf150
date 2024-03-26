@@ -83,7 +83,9 @@
 * [**Colab com desenhos e animações**](https://colab.research.google.com/drive/1_mz3myeG4swXZl8eZIh8WSS6mnSFVzRH?usp=sharing)
 * [Lista de exercicios da aula](https://drive.google.com/file/d/1-2zKhwZjzf9PLyEUHJEr55TJY73Fse65/view?usp=sharing) e suas [respostas](https://drive.google.com/file/d/1GKmm5gsR7oYwfVEnADQ6TbARqb8rPi3c/view?usp=sharing)
 * [7400 layout](https://upload.wikimedia.org/wikipedia/commons/7/74/NXP-74AHC00D-HD-HQ.jpg)
-* [74181 ALU engenharia reserva](http://www.righto.com/2017/01/die-photos-and-reverse-engineering.html)
+* [74181 ALU engenharia reserva com 170 transistores e 60 portas lógicas](http://www.righto.com/2017/01/die-photos-and-reverse-engineering.html)
+* [Pentium MMX de 1997 com 4.5 milhões de transistores](https://people.computing.clemson.edu/~mark/330/colwell/pentium.gif)
+* [GPU B200 200 Bilhoes de transistores 2024](https://www.nextplatform.com/2024/03/18/with-blackwell-gpus-ai-gets-cheaper-and-easier-competing-with-nvidia-gets-harder/)
 
  #### Material complementar
  
