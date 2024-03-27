@@ -86,7 +86,7 @@
 * [74181 ALU engenharia reserva com 170 transistores e 60 portas lógicas](http://www.righto.com/2017/01/die-photos-and-reverse-engineering.html)
 * [Pentium MMX de 1997 com 4.5 milhões de transistores](https://people.computing.clemson.edu/~mark/330/colwell/pentium.gif)
 * [GPU B200 200 Bilhoes de transistores 2024](https://www.nextplatform.com/2024/03/18/with-blackwell-gpus-ai-gets-cheaper-and-easier-competing-with-nvidia-gets-harder/)
-
+ 
  #### Material complementar
  
     * [Video da aula de 2022](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kZy4Ohc086ut6HOpvxSYvP)
