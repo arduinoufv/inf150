@@ -90,10 +90,10 @@
  
  #### Material complementar
  
-    * [Video da aula de 2022](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kZy4Ohc086ut6HOpvxSYvP)
-    * [Playlist da aula e dos exercicios de 2023](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mfkTn8be-Hey72VFo05ina)
+  * [Video da aula de 2022](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kZy4Ohc086ut6HOpvxSYvP)
+  * [Playlist da aula e dos exercicios de 2023](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mfkTn8be-Hey72VFo05ina)
 ![](https://pbs.twimg.com/media/FtNi0UHaEAA5prq?format=jpg&name=small)
-    * [**Trabalho  de 2023**](https://colab.research.google.com/drive/1ItKAWdqBL1CnEr5Nyxw_HVjU54Ko9hWi?usp=sharing), além de ver os 2 ultimos videos da aula, ver os [videos do trabalho 2](https://www.youtube.com/playlist?list=PLcvOyD_LMr6msXz6Yo0aZEY86CnmUg9iw) 
+  * [**Trabalho  de 2023**](https://colab.research.google.com/drive/1ItKAWdqBL1CnEr5Nyxw_HVjU54Ko9hWi?usp=sharing), além de ver os 2 ultimos videos da aula, ver os [videos do trabalho 2](https://www.youtube.com/playlist?list=PLcvOyD_LMr6msXz6Yo0aZEY86CnmUg9iw) 
  
  ---
 (Em construção) 
