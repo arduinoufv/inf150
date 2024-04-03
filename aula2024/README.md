@@ -66,7 +66,7 @@
   * [gravação da aula com dicas para os exercícios](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mV3W_Bs7726KurOKF4zuRh)
   * [slides de portas lógicas e tabela verdade](https://docs.google.com/presentation/d/1GkUW5eD_ZkHe4yXAb5SvtNi0wi1yX2J4IXJ8inCa15c/edit?usp=sharing)
 ----
-* [Trabalho 1- Contador de bits para entregar 11 abril 2024](https://colab.research.google.com/drive/15CKr2kpU0lbX3_gLbY9qYWd8gSWzn7TU?usp=sharing)
+* [Trabalho 1- Contador de bits para entregar 18 abril 2024](https://colab.research.google.com/drive/15CKr2kpU0lbX3_gLbY9qYWd8gSWzn7TU?usp=sharing)
 * [Colab de exemplo mas que faz um contador de ZEROS...o trabalho é contador de UM...](https://colab.research.google.com/drive/1kxcLFhfdJFBQJggrS0Pqz9pBMPr7uIT9?usp=sharing)
 * [Videos com dicas para o trabalho 1, mostrando exemplo do contador de ZEROs e dicas para adaptar para contador de UM](https://www.youtube.com/watch?v=vZjQJ5y5PAw&list=PLcvOyD_LMr6m-MsJNXrySjG4tph6_jQJn&index=4)
 * [Dicas para Colab](https://www.youtube.com/playlist?list=PLzj-vuiuluGbjZASzUe8r7aIhNm0J7yLE)
@@ -98,6 +98,7 @@
   
 ## 3/4   - Aula 5 - Introducao a Verilog  
   * [Colab com introdução a Verilog e exercício](https://colab.research.google.com/drive/1suVDyByBbvu8xugBTyiYrHu8VN6d8se1?usp=sharing)
+  * [gravação da aula](https://www.youtube.com/watch?v=Lch4Z4IpH0M&list=PLcvOyD_LMr6mP5AcF6ezOS3THlPRlKq5f&index=3)
 ### Material Complementar
   * [Crie uma conta e faça os 7 primeiros exercícios](https://hdlbits.01xz.net/wiki/Problem_sets#Getting_Started)
 
