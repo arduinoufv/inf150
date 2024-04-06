@@ -103,20 +103,36 @@
   * [Crie uma conta e faça os 7 primeiros exercícios](https://hdlbits.01xz.net/wiki/Problem_sets#Getting_Started)
 
 ## 10/4 Aula 6 - Mapa de Karnaugh
-* [**Trabalho 2** para entregar 26/4](https://colab.research.google.com/drive/1J3aKZMF5dQhDsPZjaTIPj9AuQfmmNnu9?usp=sharing)
-* folha com os enunciados [dos exercicios](https://drive.google.com/file/d/1-JrRzb7MWTtMG1-y2G3ev2iVxOM2I0sm/view?usp=sharing)
-* [Colab para correção dos exercicios](https://colab.research.google.com/drive/19aJ1oDwK5JUYXYPB2dWbPCNop1dAfjS_?usp=sharing)
+
+  * [**Colab do livro**](https://colab.research.google.com/drive/19Hx2VVszGURzVRCw6IQqC9SXse4hBxse?usp=sharing)
+  * [**Trabalho 2** para entregar 26/4](https://colab.research.google.com/drive/1J3aKZMF5dQhDsPZjaTIPj9AuQfmmNnu9?usp=sharing)
+  * folha com os enunciados [dos exercicios](https://drive.google.com/file/d/1-JrRzb7MWTtMG1-y2G3ev2iVxOM2I0sm/view?usp=sharing)
+  * [Colab para correção dos exercicios](https://colab.research.google.com/drive/19aJ1oDwK5JUYXYPB2dWbPCNop1dAfjS_?usp=sharing)
 
 ### Material Complementar
-* [Playlist de Mapas de Karnaugh de 2023](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kwvXCYln8zGBa0a6BU6FoY) 
- ---
+  * [Playlist de Mapas de Karnaugh de 2023](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kwvXCYln8zGBa0a6BU6FoY) 
+ 
+## 17/4 - Aula 7 - Mapa de Karnaugh com Dont care 
+  * [Com os exemplos da aula](https://colab.research.google.com/drive/1_bViy1QEU1QLEMN65p_UunLLkzh26JDc?usp=sharing)
+  * correção da [lista de exercícios](https://colab.research.google.com/drive/1yZjkn7F3TyocJ0m-xLGl2JyJm6ViE9Xu?usp=sharing)
+
+
+### Material Complementar
+  * [Play list de Video sobre Dont Care 2023](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mRXvm_vNffo0LEHDdqu1T5) 
+
+##  24/4 PROVA I
+### Questões
+1. Codificação: Conversão binário, decimal, hexadecimal, Complemento de 2
+2. Avaliar circuitos com portas lógicas ou equações. Saber desenhar o circuito a partir de uma equação e vice-versa
+3. Saber fazer um código Verilog para uma equação na forma estrutural e com assign, Saber interligar módulos
+4. Questão com somador de bits usando HA e FA e Verilog Estrutural de Módulos
+5. Questão com mapa de Karnaugh. Dado um mapa, extrair as equações.
+   
 (Em construção) 
 
+===
 
-* 17/4   - Aula 7 - [Play list de Video sobre Dont Care](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mRXvm_vNffo0LEHDdqu1T5) mais o colab [com os exemplos da aula](https://colab.research.google.com/drive/1_bViy1QEU1QLEMN65p_UunLLkzh26JDc?usp=sharing) e a correção da [lista de exercícios](https://colab.research.google.com/drive/1yZjkn7F3TyocJ0m-xLGl2JyJm6ViE9Xu?usp=sharing)
-    * [trabalho 3 de comparador com Dont Care para entregar antes da segunda prova 11/7](https://colab.research.google.com/drive/1dYrw0OB5jS0U_br-PWxoaZjoycNU4uMz?usp=sharing), submeter no [form](https://forms.gle/L9w6tkmjzkcM1NVd7) para dicas e [instruções clique aqui](https://www.youtube.com/watch?v=LP0E4IzmXOI&list=PLcvOyD_LMr6kxwspDour5cOKLJIcQy2n8&index=1)
-*24/4 - ##PROVA I
-  * Prova 1 [exemplo de prova de 2022](https://github.com/arduinoufv/inf150/blob/master/aulas2023/P1_2022_inf150.pdf)
+* 17/4  *  * Prova 1 [exemplo de prova de 2022](https://github.com/arduinoufv/inf150/blob/master/aulas2023/P1_2022_inf150.pdf)
   * Prova 1 [exemplo de prova de 2023](https://docs.google.com/document/d/1mpOVOUsWG6esKQKtPpsuKugo5YuFvFG3v6t2EbIc_0k/edit?usp=sharing)
     
 * 3/4   - Aula 5 - BitSlice
