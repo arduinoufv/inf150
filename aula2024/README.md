@@ -11,6 +11,10 @@
 * [apostilas](https://github.com/arduinoufv/inf150/tree/master/referencias)
 * [Outro simulador JAVA exporta Verilog](https://github.com/hneemann/Digital)
 
+## Entrega dos trabalhos
+
+* [Formulario]()
+
 ## Cronograma e Material
 
 ### 6/3 - Aula 1 - Introdução e Codificação
@@ -66,7 +70,7 @@
   * [gravação da aula com dicas para os exercícios](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mV3W_Bs7726KurOKF4zuRh)
   * [slides de portas lógicas e tabela verdade](https://docs.google.com/presentation/d/1GkUW5eD_ZkHe4yXAb5SvtNi0wi1yX2J4IXJ8inCa15c/edit?usp=sharing)
 ----
-* [Trabalho 1- Contador de bits para entregar 18 abril 2024](https://colab.research.google.com/drive/15CKr2kpU0lbX3_gLbY9qYWd8gSWzn7TU?usp=sharing)
+* [Trabalho 1- Contador de bits para entregar no retorno da greve....](https://colab.research.google.com/drive/15CKr2kpU0lbX3_gLbY9qYWd8gSWzn7TU?usp=sharing)
 * [Colab de exemplo mas que faz um contador de ZEROS...o trabalho é contador de UM...](https://colab.research.google.com/drive/1kxcLFhfdJFBQJggrS0Pqz9pBMPr7uIT9?usp=sharing)
 * [Videos com dicas para o trabalho 1, mostrando exemplo do contador de ZEROs e dicas para adaptar para contador de UM](https://www.youtube.com/watch?v=vZjQJ5y5PAw&list=PLcvOyD_LMr6m-MsJNXrySjG4tph6_jQJn&index=4)
 * [Dicas para Colab](https://www.youtube.com/playlist?list=PLzj-vuiuluGbjZASzUe8r7aIhNm0J7yLE)
@@ -105,7 +109,7 @@
 ## 10/4 Aula 6 - Mapa de Karnaugh
   * [Gravação da aula em Video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6knzCC8eq_cDQkPpfr-cmax)
   * [**Colab do livro**](https://colab.research.google.com/drive/19Hx2VVszGURzVRCw6IQqC9SXse4hBxse?usp=sharing)
-  * [**Trabalho 2** para entregar 26/4](https://colab.research.google.com/drive/1J3aKZMF5dQhDsPZjaTIPj9AuQfmmNnu9?usp=sharing) e ver o video com [explicação](https://www.youtube.com/watch?v=UALU2alttsw&list=PLcvOyD_LMr6nvcViGlVZtPH0DxS83zW6y&index=1)
+  * [**Trabalho 2** para entregar no retorno da greve....](https://colab.research.google.com/drive/1J3aKZMF5dQhDsPZjaTIPj9AuQfmmNnu9?usp=sharing) e ver o video com [explicação](https://www.youtube.com/watch?v=UALU2alttsw&list=PLcvOyD_LMr6nvcViGlVZtPH0DxS83zW6y&index=1)
   * folha com os enunciados [dos exercicios](https://drive.google.com/file/d/1-JrRzb7MWTtMG1-y2G3ev2iVxOM2I0sm/view?usp=sharing)
   * [Colab para correção dos exercicios](https://colab.research.google.com/drive/19aJ1oDwK5JUYXYPB2dWbPCNop1dAfjS_?usp=sharing)
   * Coleção de slides [introdução](https://docs.google.com/presentation/d/1xQRdRKIdRbqsBjpQbGKAmfEnckuz-4Za99HzPiBHfb8/edit?usp=drive_link), continuação com [mais exemplos: multiplicador 2 bits, comparador, e-3](https://docs.google.com/presentation/d/1Lh1o31HnYocnIztVP5BL6ooXaFObR31ybXd1F4E0rB0/edit?usp=sharing), outros exemplos [x+3  e x*3](https://docs.google.com/presentation/d/1Std7VfQMOQP6FA00pm6eyiA3OdggY_vyjxsg_dk02k8/edit?usp=sharing)
