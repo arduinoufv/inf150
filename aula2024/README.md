@@ -114,10 +114,11 @@
   * [Colab para correção dos exercicios](https://colab.research.google.com/drive/19aJ1oDwK5JUYXYPB2dWbPCNop1dAfjS_?usp=sharing)
   * Coleção de slides [introdução](https://docs.google.com/presentation/d/1xQRdRKIdRbqsBjpQbGKAmfEnckuz-4Za99HzPiBHfb8/edit?usp=drive_link), continuação com [mais exemplos: multiplicador 2 bits, comparador, e-3](https://docs.google.com/presentation/d/1Lh1o31HnYocnIztVP5BL6ooXaFObR31ybXd1F4E0rB0/edit?usp=sharing), outros exemplos [x+3  e x*3](https://docs.google.com/presentation/d/1Std7VfQMOQP6FA00pm6eyiA3OdggY_vyjxsg_dk02k8/edit?usp=sharing)
 
+## 10/7 - Revisão Mapa de karnaugh e Introdução a Dont Care
 ### Material Complementar
   * [Playlist de Mapas de Karnaugh de 2023](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kwvXCYln8zGBa0a6BU6FoY) 
  
-## 17/4 - Aula 7 - Mapa de Karnaugh com Dont care 
+## 17/7 - Aula 7 - Mapa de Karnaugh com Dont care 
   * [Folha de exercícios](https://drive.google.com/file/d/1FZUZcUT-JQgdERv98UHQ8ypQx4nwoTgR/view?usp=sharing)
   * [Com os exemplos da aula](https://colab.research.google.com/drive/1_bViy1QEU1QLEMN65p_UunLLkzh26JDc?usp=sharing)
   * correção da [lista de exercícios](https://colab.research.google.com/drive/1yZjkn7F3TyocJ0m-xLGl2JyJm6ViE9Xu?usp=sharing)
@@ -125,34 +126,57 @@
 ### Material Complementar
   * [Play list de Video sobre Dont Care 2023](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mRXvm_vNffo0LEHDdqu1T5) 
 
-##  24/4 PROVA I
+##  24/7 PROVA I
 ### Questões
 1. Codificação: Conversão binário, decimal, hexadecimal, Complemento de 2
 2. Avaliar circuitos com portas lógicas ou equações. Saber desenhar o circuito a partir de uma equação e vice-versa
 3. Saber fazer um código Verilog para uma equação na forma estrutural e com assign, Saber interligar módulos
 4. Questão com somador de bits usando HA e FA e Verilog Estrutural de Módulos
 5. Questão com mapa de Karnaugh. Dado um mapa, extrair as equações.
-   
-(Em construção) 
+
+## 31/7 -  BitSlice
+
+  * [Colab com explicações e vários exemplos: somador, subtrator, Lógica bitslice, ALU, multiplicador em array, raiz quadrada em array, distância de hamming](https://colab.research.google.com/drive/1LjNDVMUuKCJL7grxuLKUKzqZZZYcq60d?usp=sharing)
+  * [Exercicios da aula](https://github.com/arduinoufv/inf150/blob/master/aulas2023/merged%20(4).pdf) e as [respostas](https://github.com/arduinoufv/inf150/blob/master/aulas2023/answer%20(6).pdf)
+  * [Circuitos aritméticos e ALUs slides do ETH](https://safari.ethz.ch/ddca/spring2024/lib/exe/fetch.php?media=07_arithmeticcircuits.pdf)
+  ### material anos anteriores
+    * [Playlist da aula - video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nlxIDuEPxc3ggypgtxCcYK)
+## 7/8 - Circuitos Combinacionais "universais" : decodificador, codificador, multiplexadores
+  * [Colab](https://colab.research.google.com/drive/1GkhgwvcmEflAuuwC5xNmEIpd9XFS8_i9?usp=sharing) ---
+### Anos Anteriores
+   * [Decodificadores, Muxes e outros circuitos - playlist 2023](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lPRo3qTXX5s4uBb-WJn8Ia)
+
+## 14/8 FlipFlop
+ * [colab](https://colab.research.google.com/drive/1nb7dYUzvN0loS9LYLdwYs283UifwkKiu?usp=sharing)
+ *  [questionario](https://drive.google.com/file/d/1i23Q_YGyA1klP7uiZG8D9yrtapSD2qvr/view?usp=sharing)
+
+### Anos anteriores
+* [FlipFlop playlist 2023](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nH0E8YpjvyLIL-oc_g8jw-) 
+
+## 21/8 - Memorias
+* [colab](https://colab.research.google.com/drive/10XZeMbrXFMwaCx-QsVeJ6U5v6K2JCbeV?usp=sharing)
+### Anos Anteriores
+*[Memorias e FPGA - playlist 2023 ](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lMZMCqB-Vi8iQPHm3RO4j3)
+
+## 28/8 - Revisão
+
+## 4/9 - Prova 2
+
+     (Em construção) 
 
 ===
 
 * 17/4  *  * Prova 1 [exemplo de prova de 2022](https://github.com/arduinoufv/inf150/blob/master/aulas2023/P1_2022_inf150.pdf)
   * Prova 1 [exemplo de prova de 2023](https://docs.google.com/document/d/1mpOVOUsWG6esKQKtPpsuKugo5YuFvFG3v6t2EbIc_0k/edit?usp=sharing)
     
-* 3/4   - Aula 5 - BitSlice
-  * [Playlist da aula - video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nlxIDuEPxc3ggypgtxCcYK)
-  * [Colab com explicações e vários exemplos: somador, subtrator, Lógica bitslice, ALU, multiplicador em array, raiz quadrada em array, distância de hamming](https://colab.research.google.com/drive/1LjNDVMUuKCJL7grxuLKUKzqZZZYcq60d?usp=sharing)
-  * [Exercicios da aula](https://github.com/arduinoufv/inf150/blob/master/aulas2023/merged%20(4).pdf) e as [respostas](https://github.com/arduinoufv/inf150/blob/master/aulas2023/answer%20(6).pdf)
-  * [Circuitos aritméticos e ALUs slides do ETH](https://safari.ethz.ch/ddca/spring2024/lib/exe/fetch.php?media=07_arithmeticcircuits.pdf)
-  
+* 3/4   - Aula 5 -
 
 * 3/5   - Aula 7  - Revisao
      * [playlist de revisao](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lFHBc4q16LZgYUeGwDI9Ll) ficou sem audio, irei regravar
-* 31/5   - Aula 11 - [Decodificadores, Muxes e outros circuitos - playlist](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lPRo3qTXX5s4uBb-WJn8Ia) --- [Colab](https://colab.research.google.com/drive/1GkhgwvcmEflAuuwC5xNmEIpd9XFS8_i9?usp=sharing) ---
+* 31/5   - Aula 11 -
     * [trabalho 4 - Codificador de Prioridade](https://www.youtube.com/playlist?list=PLcvOyD_LMr6niXoQ7EQK23ahBcbQyeJH1) --- [Colab](https://colab.research.google.com/drive/1GkhgwvcmEflAuuwC5xNmEIpd9XFS8_i9?usp=sharing) + adicionado recentemente [link para envio](https://forms.gle/GJC7nZryr3C4vpLd8)
-* 7/6   - Aula 12 -  [FlipFlop playlist](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nH0E8YpjvyLIL-oc_g8jw-) [colab](https://colab.research.google.com/drive/1nb7dYUzvN0loS9LYLdwYs283UifwkKiu?usp=sharing) --- [questionario](https://drive.google.com/file/d/1i23Q_YGyA1klP7uiZG8D9yrtapSD2qvr/view?usp=sharing)
-* 14/6   - Aula 13 - [Memorias e FPGA - playlist](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lMZMCqB-Vi8iQPHm3RO4j3) [colab](https://colab.research.google.com/drive/10XZeMbrXFMwaCx-QsVeJ6U5v6K2JCbeV?usp=sharing)
+* 7/6   - Aula 12 -  
+* 14/6   - Aula 13 - 
 * 21/6   - Aula 14 - Analogico Digital e Transmissao de Dados [colab](https://colab.research.google.com/drive/1-2TUphfSq1olotA9x5lIi02xw1qBdc42?usp=sharing)
 * 28/6   - Aula 15 [Playlist Revisao Prova](https://www.youtube.com/playlist?list=PLcvOyD_LMr6n8StafB9XsOZJ7GKtpnpiN) - prova 2 de 2022, não considerar a questão 2 que foi o trabalho de 2022, considerar os trabalhos de 2023, [link para prova](https://docs.google.com/document/d/1zuaW5AuPseEPGUlAB3qctP-1VbnWRsxPrlSZJsKQ2HQ/edit?usp=sharing)
 * 5/7 - Aula 16 - Revisao
