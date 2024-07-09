@@ -4,7 +4,7 @@
 ## Avaliação
 * 2 provas de 40 pontos nos dias 24 de abril e 26 de Junho de 2024.
 * 4 trabalhos de 5 pontos
-
+ 
 ## Referências 
 * Amazon [Livro de Introdução à lógica digital com Verilog](https://www.amazon.com.br/Introdu%C3%A7%C3%A3o-L%C3%B3gica-Digital-com-Verilog-ebook/dp/B0CPJPDSFL/ref=sr_1_fkmr0_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2WZWPGQZ1BS9K&dib=eyJ2IjoiMSJ9.OpGfXffViXnTvj7ogV0CJh2OUy5TvRfvb-NJkDQCbejTJnPjzjIyDdXJegg2ufVIxAmt8HilkUTCtScS93YtzuAP6F8yfJGh-XGjBQPyg7g.6R-MiNqh0eDPVKqRcs4xc59LDL-K5f_KDrOBk49CK_0&dib_tag=se&keywords=introdu%C3%A7%C3%A3o+ao+verilog&qid=1708534722&sprefix=introducao+ao+verilo%2Caps%2C224&sr=8-1-fkmr0)
 * [Material complementar do Livro](https://colab.research.google.com/drive/19Hx2VVszGURzVRCw6IQqC9SXse4hBxse?usp=sharing)
