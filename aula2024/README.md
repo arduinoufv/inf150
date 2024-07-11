@@ -2,7 +2,7 @@
 ![](https://github.com/arduinoufv/dicas/blob/master/figuras/motivation.png?raw=true)
 
 ## Avaliação
-* 2 provas de 40 pontos nos dias 24 de abril e 26 de Junho de 2024.
+* 2 provas de 40 pontos nos dias 24 de julho e 4 de setembro de 2024.
 * 4 trabalhos de 5 pontos
  
 ## Referências 
@@ -128,12 +128,12 @@
 ### Material Complementar
   * [Play list de Video sobre Dont Care 2023](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mRXvm_vNffo0LEHDdqu1T5) 
 
-##  24/7 PROVA I
+##  24/7 PROVA I - sala PVA 209 !!!
 ### Questões
 1. Codificação: Conversão binário, decimal, hexadecimal, Complemento de 2
 2. Avaliar circuitos com portas lógicas ou equações. Saber desenhar o circuito a partir de uma equação e vice-versa
 3. Saber fazer um código Verilog para uma equação na forma estrutural e com assign, Saber interligar módulos
-4. Questão com somador de bits usando HA e FA e Verilog Estrutural de Módulos
+4. Questão com trabalho 1 e 2 usando Verilog Estrutural de Módulos e/ou Assign
 5. Questão com mapa de Karnaugh. Dado um mapa, extrair as equações.
 
 ## 31/7 -  BitSlice
