@@ -129,6 +129,11 @@
   * [Play list de Video sobre Dont Care 2023](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mRXvm_vNffo0LEHDdqu1T5) 
 
 ##  24/7 PROVA I - sala PVA 209 !!!
+
+### Exemplos de Provas Anteriores
+* [prova de 2023](https://docs.google.com/document/d/1mpOVOUsWG6esKQKtPpsuKugo5YuFvFG3v6t2EbIc_0k/edit?usp=sharing)
+* [prova de 2022](https://docs.google.com/document/d/1RgUo6mFv3owevp9Y7g6tgq48RCPtuyhC75kUyoO1q5Q/edit?usp=sharing)
+
 ### Questões
 1. Codificação: Conversão binário, decimal, hexadecimal, Complemento de 2
 2. Avaliar circuitos com portas lógicas ou equações. Saber desenhar o circuito a partir de uma equação e vice-versa
