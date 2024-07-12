@@ -115,7 +115,7 @@
   * Coleção de slides [introdução](https://docs.google.com/presentation/d/1xQRdRKIdRbqsBjpQbGKAmfEnckuz-4Za99HzPiBHfb8/edit?usp=drive_link), continuação com [mais exemplos: multiplicador 2 bits, comparador, e-3](https://docs.google.com/presentation/d/1Lh1o31HnYocnIztVP5BL6ooXaFObR31ybXd1F4E0rB0/edit?usp=sharing), outros exemplos [x+3  e x*3](https://docs.google.com/presentation/d/1Std7VfQMOQP6FA00pm6eyiA3OdggY_vyjxsg_dk02k8/edit?usp=sharing)
 
 ## 10/7 - Revisão Mapa de karnaugh e Introdução a Dont Care
-
+* [playlist da Aula](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mOxdT7ISJyeEKiUTLIf7yF)
 * [exemplo comparador com complemento de 2](https://colab.research.google.com/drive/1cPupx2eHujwLsPRxDJw1T0QWA0nFsuz4?usp=sharing)
 ### Material Complementar
   * [Playlist de Mapas de Karnaugh de 2023](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kwvXCYln8zGBa0a6BU6FoY) 
