@@ -135,6 +135,10 @@
 * [Playlist de Video com a solucao da Prova 1 de 2023](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nsGZYkU-joxLo6t0sfo9Co)
 * [prova de 2022](https://docs.google.com/document/d/1RgUo6mFv3owevp9Y7g6tgq48RCPtuyhC75kUyoO1q5Q/edit?usp=sharing)
 
+### Outros exercícios
+
+* [Outro estilo colab com exercícios](https://github.com/byuccl/digital_design_colab/blob/master/Exercises/README.md)
+
 ### Questões
 1. Codificação: Conversão binário, decimal, hexadecimal, Complemento de 2
 2. Avaliar circuitos com portas lógicas ou equações. Saber desenhar o circuito a partir de uma equação e vice-versa
