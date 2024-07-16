@@ -144,7 +144,7 @@
 1. Codificação: Conversão binário, decimal, hexadecimal, Complemento de 2
 2. Avaliar circuitos com portas lógicas ou equações. Saber desenhar o circuito a partir de uma equação e vice-versa
 3. Saber fazer um código Verilog para uma equação na forma estrutural e com assign, Saber interligar módulos
-4. Questão com trabalho 1 e 2 usando Verilog Estrutural de Módulos e/ou Assign
+4. Questão com Transistores CMOS
 5. Questão com mapa de Karnaugh. Dado um mapa, extrair as equações.
 
 ## 31/7 -  BitSlice
