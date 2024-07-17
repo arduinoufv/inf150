@@ -2,7 +2,7 @@
 ![](https://github.com/arduinoufv/dicas/blob/master/figuras/motivation.png?raw=true)
 
 ## Avaliação
-* 2 provas de 40 pontos nos dias 24 de julho e 4 de setembro de 2024.
+* 2 provas de 40 pontos nos dias 24 de julho no PVB 209 e 4 de setembro de 2024.
 * 4 trabalhos de 5 pontos
  
 ## Referências 
@@ -128,7 +128,7 @@
 ### Material Complementar
   * [Play list de Video sobre Dont Care 2023](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mRXvm_vNffo0LEHDdqu1T5) 
 
-##  24/7 PROVA I - sala PVA 209 !!!
+##  24/7 PROVA I - sala PVB 209 !!! (errata, estava pva mas é PVB)
 
 ### Exemplos de Provas Anteriores
 * [prova de 2023](https://docs.google.com/document/d/1mpOVOUsWG6esKQKtPpsuKugo5YuFvFG3v6t2EbIc_0k/edit?usp=sharing)
