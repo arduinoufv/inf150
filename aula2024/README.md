@@ -141,6 +141,7 @@
 * [Outro estilo colab com exercícios](https://github.com/byuccl/digital_design_colab/blob/master/Exercises/README.md)
 
 ### Questões
+* [playlist com revisão para prova](https://www.youtube.com/playlist?list=PLcvOyD_LMr6n6AH08qomIxAVhKBjmo5Vw)
 1. Codificação: Conversão binário, decimal, hexadecimal, Complemento de 2
 2. Avaliar circuitos com portas lógicas ou equações. Saber desenhar o circuito a partir de uma equação e vice-versa
 3. Saber fazer um código Verilog para uma equação na forma estrutural e com assign, Saber interligar módulos
