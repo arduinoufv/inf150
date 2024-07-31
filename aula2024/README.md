@@ -152,6 +152,7 @@
 ## 31/7 -  BitSlice
 
   * [Colab com explicações e vários exemplos: somador, subtrator, Lógica bitslice, ALU, multiplicador em array, raiz quadrada em array, distância de hamming](https://colab.research.google.com/drive/1LjNDVMUuKCJL7grxuLKUKzqZZZYcq60d?usp=sharing)
+  * [playlist da aula](https://www.youtube.com/playlist?list=PLcvOyD_LMr6n5KB86fBsk4mNncpXg6diA)
   * [Exercicios da aula](https://github.com/arduinoufv/inf150/blob/master/aulas2023/merged%20(4).pdf) e as [respostas](https://github.com/arduinoufv/inf150/blob/master/aulas2023/answer%20(6).pdf)
   * [Comparadores](https://colab.research.google.com/drive/1k3x55nk4mgPgs-Oa185XboUWh9LS27J7)
   * [Circuitos aritméticos e ALUs slides do ETH](https://safari.ethz.ch/ddca/spring2024/lib/exe/fetch.php?media=07_arithmeticcircuits.pdf)
