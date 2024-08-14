@@ -164,7 +164,7 @@
    * [Decodificadores, Muxes e outros circuitos - playlist 2023](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lPRo3qTXX5s4uBb-WJn8Ia)
 
 ## 14/8 FlipFlop
- * [colab](https://colab.research.google.com/drive/1nb7dYUzvN0loS9LYLdwYs283UifwkKiu?usp=sharing)
+ * [colab](https://colab.research.google.com/drive/1FknuR-ytt43UU_2YSInpt7JTPTeA3g7s?usp=sharing)
  *  [questionario](https://drive.google.com/file/d/1i23Q_YGyA1klP7uiZG8D9yrtapSD2qvr/view?usp=sharing)
 
 ### Anos anteriores
