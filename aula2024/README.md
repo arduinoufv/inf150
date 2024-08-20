@@ -172,8 +172,8 @@
 
 ## 21/8 - Memorias
 *  [Trabalho 3 até 4 setembro](https://colab.research.google.com/drive/1vPGIidUjsrIAG-5f5C40xfQnRO8h1VJq?usp=sharing)
- 
-* [colab](https://colab.research.google.com/drive/10XZeMbrXFMwaCx-QsVeJ6U5v6K2JCbeV?usp=sharing)
+*  [Trabalho 4 até 4 setembro](https://colab.research.google.com/drive/11Jnwmrl2WRbFzAMevhqSYMPWdPK74WMf?usp=sharing)
+* [colab](https://colab.research.google.com/drive/1ytLyV39Jn4joh8MTEhxB-C4QdW3hhKpL?usp=sharing)
 ### Anos Anteriores
 *[Memorias e FPGA - playlist 2023 ](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lMZMCqB-Vi8iQPHm3RO4j3)
 
