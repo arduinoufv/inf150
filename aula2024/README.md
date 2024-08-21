@@ -171,9 +171,9 @@
 * [FlipFlop playlist 2023](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nH0E8YpjvyLIL-oc_g8jw-) 
 
 ## 21/8 - Memorias
-*  [Trabalho 3 até 4 setembro](https://colab.research.google.com/drive/1vPGIidUjsrIAG-5f5C40xfQnRO8h1VJq?usp=sharing)
-*  [Trabalho 4 até 4 setembro](https://colab.research.google.com/drive/11Jnwmrl2WRbFzAMevhqSYMPWdPK74WMf?usp=sharing)
-* [colab](https://colab.research.google.com/drive/1ytLyV39Jn4joh8MTEhxB-C4QdW3hhKpL?usp=sharing)
+*  [Trabalho 3 até 4 setembro](https://colab.research.google.com/drive/1vPGIidUjsrIAG-5f5C40xfQnRO8h1VJq?usp=sharing) e [playlist video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nc1JwBZwJxxWnrG1NvVqFh)
+*  [Trabalho 4 até 4 setembro](https://colab.research.google.com/drive/11Jnwmrl2WRbFzAMevhqSYMPWdPK74WMf?usp=sharing) e [playlist video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6khNPuPhUXMBmgYZEIuEs33)
+* [colab da Aula de Memoria](https://colab.research.google.com/drive/1ytLyV39Jn4joh8MTEhxB-C4QdW3hhKpL?usp=sharing) e [playlist video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mJYXpEG1cHou9eJvHGrx_b)
 ### Anos Anteriores
 *[Memorias e FPGA - playlist 2023 ](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lMZMCqB-Vi8iQPHm3RO4j3)
 
