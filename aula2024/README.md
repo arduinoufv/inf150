@@ -3,7 +3,7 @@
 
 ## Avaliação
 * 2 provas de 40 pontos nos dias 24 de julho no PVB 209 e 4 de setembro de 2024 no Auditório de PVB.
-* 4 trabalhos de 5 pontos: datas para entrega - Trabalho 1 e 2 até 23/8, trabalhos 3 e 4 até 4 setembro.
+* 4 trabalhos de 5 pontos: datas para entrega - Trabalho 1 e 2 até 23/8, trabalhos 3 e 4 até 6 setembro.
  
 ## Referências 
 * Amazon [Livro de Introdução à lógica digital com Verilog](https://www.amazon.com.br/Introdu%C3%A7%C3%A3o-L%C3%B3gica-Digital-com-Verilog-ebook/dp/B0CPJPDSFL/ref=sr_1_fkmr0_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2WZWPGQZ1BS9K&dib=eyJ2IjoiMSJ9.OpGfXffViXnTvj7ogV0CJh2OUy5TvRfvb-NJkDQCbejTJnPjzjIyDdXJegg2ufVIxAmt8HilkUTCtScS93YtzuAP6F8yfJGh-XGjBQPyg7g.6R-MiNqh0eDPVKqRcs4xc59LDL-K5f_KDrOBk49CK_0&dib_tag=se&keywords=introdu%C3%A7%C3%A3o+ao+verilog&qid=1708534722&sprefix=introducao+ao+verilo%2Caps%2C224&sr=8-1-fkmr0)
@@ -171,8 +171,8 @@
 * [FlipFlop playlist 2023](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nH0E8YpjvyLIL-oc_g8jw-) 
 
 ## 21/8 - Memorias
-*  [Trabalho 3 até 4 setembro](https://colab.research.google.com/drive/1vPGIidUjsrIAG-5f5C40xfQnRO8h1VJq?usp=sharing) e [playlist video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nc1JwBZwJxxWnrG1NvVqFh)
-*  [Trabalho 4 até 4 setembro](https://colab.research.google.com/drive/11Jnwmrl2WRbFzAMevhqSYMPWdPK74WMf?usp=sharing) e [playlist video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6khNPuPhUXMBmgYZEIuEs33)
+*  [Trabalho 3 até 6 setembro](https://colab.research.google.com/drive/1vPGIidUjsrIAG-5f5C40xfQnRO8h1VJq?usp=sharing) e [playlist video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nc1JwBZwJxxWnrG1NvVqFh)
+*  [Trabalho 4 até 6 setembro](https://colab.research.google.com/drive/11Jnwmrl2WRbFzAMevhqSYMPWdPK74WMf?usp=sharing) e [playlist video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6khNPuPhUXMBmgYZEIuEs33)
 * [colab da Aula de Memoria](https://colab.research.google.com/drive/1ytLyV39Jn4joh8MTEhxB-C4QdW3hhKpL?usp=sharing) e [playlist video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mJYXpEG1cHou9eJvHGrx_b)
 ### Anos Anteriores
 *[Memorias e FPGA - playlist 2023 ](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lMZMCqB-Vi8iQPHm3RO4j3)
