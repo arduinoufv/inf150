@@ -3,7 +3,7 @@
 
 ## Avaliação
 * 2 provas de 40 pontos nos dias 24 de julho no PVB 209 e 4 de setembro de 2024 no Auditório de PVB.
-* 4 trabalhos de 5 pontos: datas para entrega - Trabalho 1 e 2 até 23/8, trabalhos 3 e 4 até 6 setembro.
+* [envio dos trabalhos](https://forms.gle/zGpzHamM2AVR81hN7) 4 trabalhos de 5 pontos: datas para entrega - Trabalho 1 e 2 até 23/8, trabalhos 3 e 4 até 6 setembro.
  
 ## Referências 
 * Amazon [Livro de Introdução à lógica digital com Verilog](https://www.amazon.com.br/Introdu%C3%A7%C3%A3o-L%C3%B3gica-Digital-com-Verilog-ebook/dp/B0CPJPDSFL/ref=sr_1_fkmr0_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2WZWPGQZ1BS9K&dib=eyJ2IjoiMSJ9.OpGfXffViXnTvj7ogV0CJh2OUy5TvRfvb-NJkDQCbejTJnPjzjIyDdXJegg2ufVIxAmt8HilkUTCtScS93YtzuAP6F8yfJGh-XGjBQPyg7g.6R-MiNqh0eDPVKqRcs4xc59LDL-K5f_KDrOBk49CK_0&dib_tag=se&keywords=introdu%C3%A7%C3%A3o+ao+verilog&qid=1708534722&sprefix=introducao+ao+verilo%2Caps%2C224&sr=8-1-fkmr0)
@@ -109,7 +109,7 @@
 ## 10/4 Aula 6 - Mapa de Karnaugh
   * [Gravação da aula em Video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6knzCC8eq_cDQkPpfr-cmax)
   * [**Colab do livro**](https://colab.research.google.com/drive/19Hx2VVszGURzVRCw6IQqC9SXse4hBxse?usp=sharing)
-  * [**Trabalho 2** para entregar no retorno da greve....](https://colab.research.google.com/drive/1J3aKZMF5dQhDsPZjaTIPj9AuQfmmNnu9?usp=sharing) e ver o video com [explicação](https://www.youtube.com/watch?v=UALU2alttsw&list=PLcvOyD_LMr6nvcViGlVZtPH0DxS83zW6y&index=1)
+  *  [envio dos trabalhos](https://forms.gle/zGpzHamM2AVR81hN7)  [**Trabalho 2** para entregar no retorno da greve....](https://colab.research.google.com/drive/1J3aKZMF5dQhDsPZjaTIPj9AuQfmmNnu9?usp=sharing) e ver o video com [explicação](https://www.youtube.com/watch?v=UALU2alttsw&list=PLcvOyD_LMr6nvcViGlVZtPH0DxS83zW6y&index=1)
   * folha com os enunciados [dos exercicios](https://drive.google.com/file/d/1-JrRzb7MWTtMG1-y2G3ev2iVxOM2I0sm/view?usp=sharing)
   * [Colab para correção dos exercicios](https://colab.research.google.com/drive/19aJ1oDwK5JUYXYPB2dWbPCNop1dAfjS_?usp=sharing)
   * Coleção de slides [introdução](https://docs.google.com/presentation/d/1xQRdRKIdRbqsBjpQbGKAmfEnckuz-4Za99HzPiBHfb8/edit?usp=drive_link), continuação com [mais exemplos: multiplicador 2 bits, comparador, e-3](https://docs.google.com/presentation/d/1Lh1o31HnYocnIztVP5BL6ooXaFObR31ybXd1F4E0rB0/edit?usp=sharing), outros exemplos [x+3  e x*3](https://docs.google.com/presentation/d/1Std7VfQMOQP6FA00pm6eyiA3OdggY_vyjxsg_dk02k8/edit?usp=sharing)
@@ -171,6 +171,7 @@
 * [FlipFlop playlist 2023](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nH0E8YpjvyLIL-oc_g8jw-) 
 
 ## 21/8 - Memorias
+*  [envio dos trabalhos](https://forms.gle/zGpzHamM2AVR81hN7)
 *  [Trabalho 3 até 6 setembro](https://colab.research.google.com/drive/1vPGIidUjsrIAG-5f5C40xfQnRO8h1VJq?usp=sharing) e [playlist video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nc1JwBZwJxxWnrG1NvVqFh)
 *  [Trabalho 4 até 6 setembro](https://colab.research.google.com/drive/11Jnwmrl2WRbFzAMevhqSYMPWdPK74WMf?usp=sharing) e [playlist video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6khNPuPhUXMBmgYZEIuEs33)
 * [colab da Aula de Memoria](https://colab.research.google.com/drive/1ytLyV39Jn4joh8MTEhxB-C4QdW3hhKpL?usp=sharing) e [playlist video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mJYXpEG1cHou9eJvHGrx_b)
