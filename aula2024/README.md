@@ -179,6 +179,9 @@
 *[Memorias e FPGA - playlist 2023 ](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lMZMCqB-Vi8iQPHm3RO4j3)
 
 ## 28/8 - Revisão
+* [play list da Revisão](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lwl7hto2GbQYgrUWel4NL-)
+* [Colab da Revisão](https://colab.research.google.com/drive/1qwyGsBpHje5FQOUY3kSuxpNMhgCKQain?usp=sharing)
+* [Documentos](https://docs.google.com/document/d/1n1w8cbVMOQU6Cx--eDZpNowtfForh-cIJj4hqVZES9w/edit?usp=sharing)
 
 ## 4/9 - Prova 2
 
