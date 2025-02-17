@@ -13,3 +13,8 @@
 * [Folha de exercício, cada lista é diferente](https://drive.google.com/file/d/1hVYZJdLe7PYeeJi03vZbT9mWAdDpBWUa/view?usp=sharing)
 * [**Resposta da Folha de Exercicio da Aula**](https://docs.google.com/document/d/1cqq3Q13tjPxvGbMxlI_CgOY6hJ5Q5TpsB8NbBXLNNtU/edit?usp=sharing)
 * [Material Complementar](https://github.com/arduinoufv/inf150/blob/master/aula2025/complementaraula1.md)
+
+## Aula 2
+* [**Exercicios**](https://github.com/arduinoufv/inf150/blob/master/aulas2023/lista_portas_logicas.pdf)
+* [**Resposta da Lista de Exercicios**](https://github.com/arduinoufv/inf150/blob/master/aulas2023/answer_portas_logicas.pdf)
+* [Material complementar](https://github.com/arduinoufv/inf150/blob/master/aula2025/materialcomplementaraula2.md)
