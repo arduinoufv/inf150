@@ -1,5 +1,5 @@
 # Avaliação
-* 2 provas de 40 pontos nos dias .... no ....
+* 2 provas de 40 pontos nos dias 7/5/2025 e 2/7/25 no ....
 * [envio dos trabalhos](https://forms.gle/zGpzHamM2AVR81hN7) 4 trabalhos de 5 pontos
   
 # Referências 
@@ -9,12 +9,44 @@
 * [Outro simulador JAVA exporta Verilog](https://github.com/hneemann/Digital)
 
 # Cronograma de aulas
-## Aula 1 
+## Aula 1 12/3/25 - CODIFICAÇÃO
 * [Folha de exercício, cada lista é diferente](https://drive.google.com/file/d/1hVYZJdLe7PYeeJi03vZbT9mWAdDpBWUa/view?usp=sharing)
 * [**Resposta da Folha de Exercicio da Aula**](https://docs.google.com/document/d/1cqq3Q13tjPxvGbMxlI_CgOY6hJ5Q5TpsB8NbBXLNNtU/edit?usp=sharing)
 * [Material Complementar](https://github.com/arduinoufv/inf150/blob/master/aula2025/complementaraula1.md)
 
-## Aula 2
+## Aula 2 19/3/25 (auditorio)- ALGEBRA BOOLEANA
 * [**Exercicios**](https://github.com/arduinoufv/inf150/blob/master/aulas2023/lista_portas_logicas.pdf)
 * [**Resposta da Lista de Exercicios**](https://github.com/arduinoufv/inf150/blob/master/aulas2023/answer_portas_logicas.pdf)
 * [Material complementar](https://github.com/arduinoufv/inf150/blob/master/aula2025/materialcomplementaraula2.md)
+
+## Aula 3 26/3/25 (auditorio)  - Tabela Verdade e Soma de Produtos
+
+## Aula 4 2/4/25 (assíncrona) - Circuitos CMOS
+
+## Aula 5 9/4/25 - Introdução a Verilog
+
+## Aula 6 16/4/25 - Mapas de Karnaugh
+
+## Aula 7 23/4/25 - Mapas de Karnaugh
+
+## Aula 8 30/4/25 - Revisão
+
+## Aula 9 7/5/25 - Prova I
+
+## Aula 10 14/5/25 - Bitslice
+
+## Aula 11 22/5/25 - Circuitos Universais
+
+## Aula 12 28/5/25 - Unidade Lógica Aritmética 
+
+## Aula 13 4/6/25 - FlipFlops 
+
+## Aula 14 11/6/25 - Contadores e Memórias
+
+## Aula 15 18/6/25 - FPGAs, ADC/DAC
+
+## Aula 16 25/6/25 - Revisão 
+
+## Aula 17 2/6/25  - Prova 2
+
+
