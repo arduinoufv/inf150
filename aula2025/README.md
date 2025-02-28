@@ -22,12 +22,16 @@
 ## Aula 3 26/3/25 (auditorio)  - Tabela Verdade e Soma de Produtos
   * [**lista de exercicios**](https://drive.google.com/file/d/1--W5NXHyAUGi1qciiN-YxRrLvHiniXl3/view?usp=sharing) e a [resposta da lista](https://drive.google.com/file/d/1hld6aUR42eBKP4UkdDtW4a7O47mY1wB5/view?usp=sharing)
   * [slides de portas lógicas e tabela verdade](https://docs.google.com/presentation/d/1GkUW5eD_ZkHe4yXAb5SvtNi0wi1yX2J4IXJ8inCa15c/edit?usp=sharing)
-* [Dicas para Colab](https://www.youtube.com/playlist?list=PLzj-vuiuluGbjZASzUe8r7aIhNm0J7yLE)
-   
+  * [Material Complementar](https://github.com/arduinoufv/inf150/blob/master/aula2025/aula3_materialcomplementar.md)   
 
 ## Aula 4 2/4/25 (assíncrona) - Circuitos CMOS
 
+* [Lista de exercicios da aula](https://drive.google.com/file/d/1-2zKhwZjzf9PLyEUHJEr55TJY73Fse65/view?usp=sharing) e suas [respostas](https://drive.google.com/file/d/1GKmm5gsR7oYwfVEnADQ6TbARqb8rPi3c/view?usp=sharing)
+* [material complementar](https://github.com/arduinoufv/inf150/blob/master/aula2025/aula4_materialcomplementar.md)
+  
 ## Aula 5 9/4/25 - Introdução a Verilog
+ * [Colab com introdução a Verilog e exercício](https://colab.research.google.com/drive/1suVDyByBbvu8xugBTyiYrHu8VN6d8se1?usp=sharing)
+ * [Material Complementar](https://github.com/arduinoufv/inf150/blob/master/aula2025/aula5_materialcomplementar.md) 
 
 ## Aula 6 16/4/25 - Mapas de Karnaugh
 
