@@ -9,7 +9,7 @@
 * [Outro simulador JAVA exporta Verilog](https://github.com/hneemann/Digital)
 
 # Cronograma de aulas
-## Aula 1 12/3/25 - CODIFICAÇÃO
+## Aula 1 12/3/25 - CODIFICAÇÃO  [video da aula](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lZCoO89C2XdwUnBdVjreHe)
 * [Folha de exercício, cada lista é diferente](https://drive.google.com/file/d/1hVYZJdLe7PYeeJi03vZbT9mWAdDpBWUa/view?usp=sharing)
 * [**Resposta da Folha de Exercicio da Aula**](https://docs.google.com/document/d/1cqq3Q13tjPxvGbMxlI_CgOY6hJ5Q5TpsB8NbBXLNNtU/edit?usp=sharing)
 * [Material Complementar](https://github.com/arduinoufv/inf150/blob/master/aula2025/complementaraula1.md)
