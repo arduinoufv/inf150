@@ -14,7 +14,7 @@
 * [**Resposta da Folha de Exercicio da Aula**](https://docs.google.com/document/d/1cqq3Q13tjPxvGbMxlI_CgOY6hJ5Q5TpsB8NbBXLNNtU/edit?usp=sharing)
 * [Material Complementar](https://github.com/arduinoufv/inf150/blob/master/aula2025/complementaraula1.md)
 
-## Aula 2 19/3/25 (auditorio)- ALGEBRA BOOLEANA
+## Aula 2 19/3/25 (auditorio)- ALGEBRA BOOLEANA [aula completa](https://drive.google.com/file/d/1CnRwIh3y0dkhrhb8sJLMO7sjdA0DPexe/view?usp=sharing) e [videos em partes]()
 * [**Exercicios para treino apenas...**](https://github.com/arduinoufv/inf150/blob/master/aulas2023/lista_portas_logicas.pdf) e [**Resposta dos exercicios de treino**](https://github.com/arduinoufv/inf150/blob/master/aulas2023/answer_portas_logicas.pdf)
 * [Material complementar](https://github.com/arduinoufv/inf150/blob/master/aula2025/materialcomplementaraula2.md)
 
