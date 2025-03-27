@@ -18,7 +18,7 @@
 * [**Exercicios para treino apenas...**](https://github.com/arduinoufv/inf150/blob/master/aulas2023/lista_portas_logicas.pdf) e [**Resposta dos exercicios de treino**](https://github.com/arduinoufv/inf150/blob/master/aulas2023/answer_portas_logicas.pdf)
 * [Material complementar](https://github.com/arduinoufv/inf150/blob/master/aula2025/materialcomplementaraula2.md)
 
-## Aula 3 26/3/25 (auditorio)  - Tabela Verdade e Soma de Produtos
+## Aula 3 26/3/25 (auditorio)  - Tabela Verdade e Soma de Produtos - [Videos com exercícios passo a passo](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lZMgR6ZjM9eMU8rYGoh4jS) e [aula completa](https://drive.google.com/file/d/1q9qMGtrsfB67lGJYM6Ngw9SJyRtkIYqI/view?usp=sharing)
   * Entregar a lista de exercícios de Algebra Booleana em Papel na aula de 26/3.
   * [**lista de exercicios para treino**](https://drive.google.com/file/d/1--W5NXHyAUGi1qciiN-YxRrLvHiniXl3/view?usp=sharing) e a [resposta dos exercicios de treino](https://drive.google.com/file/d/1hld6aUR42eBKP4UkdDtW4a7O47mY1wB5/view?usp=sharing)
   * [slides de portas lógicas e tabela verdade](https://docs.google.com/presentation/d/1GkUW5eD_ZkHe4yXAb5SvtNi0wi1yX2J4IXJ8inCa15c/edit?usp=sharing)
