@@ -30,7 +30,7 @@
 * Entregar a lista em papel na secretaria no Escaninho Ricardo S Ferreira até 7 abril 2025.
 * [material complementar](https://github.com/arduinoufv/inf150/blob/master/aula2025/aula4_materialcomplementar.md)
   
-## Aula 5 9/4/25 - Introdução a Verilog
+## Aula 5 9/4/25 - Introdução a Verilog [video aula](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nsxVw7dOY2DLBBu1aRNJ3Y)
  * [Colab com introdução a Verilog e exercício](https://colab.research.google.com/drive/1suVDyByBbvu8xugBTyiYrHu8VN6d8se1?usp=sharing)
  * [Material Complementar](https://github.com/arduinoufv/inf150/blob/master/aula2025/aula5_materialcomplementar.md) 
 
