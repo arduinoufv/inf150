@@ -45,7 +45,7 @@
 * [Folha de exercícios](https://drive.google.com/file/d/1FZUZcUT-JQgdERv98UHQ8ypQx4nwoTgR/view?usp=sharing)
 * correção da [lista de exercícios](https://colab.research.google.com/drive/1yZjkn7F3TyocJ0m-xLGl2JyJm6ViE9Xu?usp=sharing)
 * [exemplo comparador com complemento de 2](https://colab.research.google.com/drive/1cPupx2eHujwLsPRxDJw1T0QWA0nFsuz4?usp=sharing)
- 
+* [material complementar](https://github.com/arduinoufv/inf150/blob/master/aula2025/aula7_dontcare_e_karnaugh.md)
 ## Aula 8 30/4/25 - Revisão
 * [Com os exemplos para treinar para Prova](https://colab.research.google.com/drive/1_bViy1QEU1QLEMN65p_UunLLkzh26JDc?usp=sharing)
 
