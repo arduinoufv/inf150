@@ -1,6 +1,6 @@
 # Avaliação
 * 2 provas de 40 pontos nos dias 7/5/2025 e 2/7/25 no ....
-* [envio dos trabalhos](https://forms.gle/zGpzHamM2AVR81hN7) 3 trabalhos de 5 pontos e mais 5 listas 1 ponto cada.
+*  3 trabalhos de 5 pontos e mais 5 listas 1 ponto cada.
 ## Trabalhos 
 * [Colab do Trabalho 1 - prazo 30 abril - individual](https://colab.research.google.com/drive/1H3aUtoNS5JrGH-O9ySW4yZigYmi_Ju0c?usp=sharing) - Para envio do trabalho 1 [clique aqui](https://forms.gle/fYnmL57Rwe2ZU9j3A)
   
