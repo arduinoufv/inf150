@@ -41,12 +41,12 @@
 * [Colab para correção dos exercicios](https://colab.research.google.com/drive/19aJ1oDwK5JUYXYPB2dWbPCNop1dAfjS_?usp=sharing)
 * [material complementar](https://github.com/arduinoufv/inf150/blob/master/aula2025/aula6_material_complementar.md)
 
-## Aula 7 23/4/25 - Mapas de Karnaugh com Dont Care
+## Aula 7 23/4/25 - Mapas de Karnaugh com Dont Care [play list da aula](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nl20MAR40qS6hMlpCl3Z2P)
 * [Folha de exercícios](https://drive.google.com/file/d/1FZUZcUT-JQgdERv98UHQ8ypQx4nwoTgR/view?usp=sharing)
 * correção da [lista de exercícios](https://colab.research.google.com/drive/1yZjkn7F3TyocJ0m-xLGl2JyJm6ViE9Xu?usp=sharing)
 * [exemplo comparador com complemento de 2](https://colab.research.google.com/drive/1cPupx2eHujwLsPRxDJw1T0QWA0nFsuz4?usp=sharing)
 * [material complementar](https://github.com/arduinoufv/inf150/blob/master/aula2025/aula7_dontcare_e_karnaugh.md)
-## Aula 8 30/4/25 - Revisão
+## Aula 8 30/4/25 - Revisão [playlist da revisao para Prova](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kq4BRO5-Cy5lFu-qfByHPa)
 * [Com os exemplos para treinar para Prova](https://colab.research.google.com/drive/1_bViy1QEU1QLEMN65p_UunLLkzh26JDc?usp=sharing)
 
 ## Aula 9 7/5/25 - Prova I
