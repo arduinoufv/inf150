@@ -54,6 +54,10 @@
 * [prova 2023](https://github.com/arduinoufv/inf150/blob/master/aula2025/p1_2023.pdf), [prova 2024](https://github.com/arduinoufv/inf150/blob/master/aula2025/p1_2024_inf150.pdf)
 
 ## Aula 10 14/5/25 - Bitslice
+* [Colab com explicações e vários exemplos: somador, subtrator, Lógica bitslice, ALU, multiplicador em array, raiz quadrada em array, distância de hamming](https://colab.research.google.com/drive/1LjNDVMUuKCJL7grxuLKUKzqZZZYcq60d?usp=sharing)
+ * [Exercicios da aula](https://github.com/arduinoufv/inf150/blob/master/aulas2023/merged%20(4).pdf) e as [respostas](https://github.com/arduinoufv/inf150/blob/master/aulas2023/answer%20(6).pdf)
+  * [Comparadores](https://colab.research.google.com/drive/1k3x55nk4mgPgs-Oa185XboUWh9LS27J7)
+  * [Circuitos aritméticos e ALUs slides do ETH](https://safari.ethz.ch/ddca/spring2024/lib/exe/fetch.php?media=07_arithmeticcircuits.pdf)
 
 ## Aula 11 22/5/25 - Circuitos Universais
 
