@@ -36,7 +36,7 @@
  * [Colab com introdução a Verilog e exercício](https://colab.research.google.com/drive/1suVDyByBbvu8xugBTyiYrHu8VN6d8se1?usp=sharing)
  * [Material Complementar](https://github.com/arduinoufv/inf150/blob/master/aula2025/aula5_materialcomplementar.md) 
 
-## Aula 6 16/4/25 - Mapas de Karnaugh 
+## Aula 6 16/4/25 - Mapas de Karnaugh [playlist de video da aula](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mgF9VknWR2Hd6W31i96gWJ)
 * folha com os enunciados [dos exercicios com mapa de karnaugh](https://drive.google.com/file/d/1-JrRzb7MWTtMG1-y2G3ev2iVxOM2I0sm/view?usp=sharing)
 * [Colab para correção dos exercicios](https://colab.research.google.com/drive/19aJ1oDwK5JUYXYPB2dWbPCNop1dAfjS_?usp=sharing)
 * [material complementar](https://github.com/arduinoufv/inf150/blob/master/aula2025/aula6_material_complementar.md)
