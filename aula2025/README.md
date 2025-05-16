@@ -61,6 +61,7 @@
   * [Slide de Circuitos aritméticos e ALUs do ETH](https://safari.ethz.ch/ddca/spring2024/lib/exe/fetch.php?media=07_arithmeticcircuits.pdf)
 
 ## Aula 11 22/5/25 - Circuitos Universais
+* [Colab decodficador, codificador, mux, rede multiestagio](https://colab.research.google.com/drive/1GkhgwvcmEflAuuwC5xNmEIpd9XFS8_i9?usp=sharing)
 
 ## Aula 12 28/5/25 - Unidade Lógica Aritmética 
 
