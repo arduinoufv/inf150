@@ -3,7 +3,7 @@
 *  3 trabalhos de 5 pontos e mais 5 listas 1 ponto cada.
 ## Trabalhos 
 * [Colab do Trabalho 1 - prazo 6 Maio - individual](https://colab.research.google.com/drive/1H3aUtoNS5JrGH-O9ySW4yZigYmi_Ju0c?usp=sharing) - Para envio do trabalho 1 [clique aqui](https://forms.gle/fYnmL57Rwe2ZU9j3A)
-* [Colab trabalho 2 - 4 junho em grupo de até 5 pesssoas](https://colab.research.google.com/drive/1Mv75E8fnQfOyBXq4HiSDmFN7-5CUkK5h?usp=sharing)
+* [Colab trabalho 2 - 4 junho em grupo de até 5 pesssoas](https://colab.research.google.com/drive/1Mv75E8fnQfOyBXq4HiSDmFN7-5CUkK5h?usp=sharing) + [video com dicas](https://www.youtube.com/playlist?list=PLcvOyD_LMr6koZ87zzxnplFdXj7jehWQ1)
   
 # Referências 
 * Amazon [Livro de Introdução à lógica digital com Verilog](https://www.amazon.com.br/Introdu%C3%A7%C3%A3o-L%C3%B3gica-Digital-com-Verilog-ebook/dp/B0CPJPDSFL/ref=sr_1_fkmr0_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2WZWPGQZ1BS9K&dib=eyJ2IjoiMSJ9.OpGfXffViXnTvj7ogV0CJh2OUy5TvRfvb-NJkDQCbejTJnPjzjIyDdXJegg2ufVIxAmt8HilkUTCtScS93YtzuAP6F8yfJGh-XGjBQPyg7g.6R-MiNqh0eDPVKqRcs4xc59LDL-K5f_KDrOBk49CK_0&dib_tag=se&keywords=introdu%C3%A7%C3%A3o+ao+verilog&qid=1708534722&sprefix=introducao+ao+verilo%2Caps%2C224&sr=8-1-fkmr0)
@@ -54,11 +54,11 @@
 * Portas lógicas, Tabelas, Verilog com **assign**, Verilog Estrutural, Portas com Transistores CMOS, Mapas de Karnaugh
 * [prova 2023](https://github.com/arduinoufv/inf150/blob/master/aula2025/p1_2023.pdf), [prova 2024](https://github.com/arduinoufv/inf150/blob/master/aula2025/p1_2024_inf150.pdf)
 
-## Aula 10 14/5/25 - Bitslice
+## Aula 10 14/5/25 - Bitslice [playlist da aula](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mlA4AwPQdhz7pJJFjQ7hKe)
 * [Colab com explicações e vários exemplos: somador, subtrator, Lógica bitslice, ALU, multiplicador em array, raiz quadrada em array, distância de hamming](https://colab.research.google.com/drive/1LjNDVMUuKCJL7grxuLKUKzqZZZYcq60d?usp=sharing)
- * [Exercicios da aula](https://github.com/arduinoufv/inf150/blob/master/aulas2023/merged%20(4).pdf) e as [respostas](https://github.com/arduinoufv/inf150/blob/master/aulas2023/answer%20(6).pdf)
-  * [Comparadores](https://colab.research.google.com/drive/1k3x55nk4mgPgs-Oa185XboUWh9LS27J7)
-  * [Circuitos aritméticos e ALUs slides do ETH](https://safari.ethz.ch/ddca/spring2024/lib/exe/fetch.php?media=07_arithmeticcircuits.pdf)
+ * [Exercicios com somadores](https://github.com/arduinoufv/inf150/blob/master/aulas2023/merged%20(4).pdf) e as [respostas](https://github.com/arduinoufv/inf150/blob/master/aulas2023/answer%20(6).pdf)
+  * [Colab com projetos de Comparadores](https://colab.research.google.com/drive/1k3x55nk4mgPgs-Oa185XboUWh9LS27J7)
+  * [Slide de Circuitos aritméticos e ALUs do ETH](https://safari.ethz.ch/ddca/spring2024/lib/exe/fetch.php?media=07_arithmeticcircuits.pdf)
 
 ## Aula 11 22/5/25 - Circuitos Universais
 
