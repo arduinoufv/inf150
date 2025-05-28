@@ -3,7 +3,8 @@
 *  3 trabalhos de 5 pontos e mais 5 listas 1 ponto cada.
 ## Trabalhos 
 * [Colab do Trabalho 1 - prazo 6 Maio - individual](https://colab.research.google.com/drive/1H3aUtoNS5JrGH-O9ySW4yZigYmi_Ju0c?usp=sharing) - Para envio do trabalho 1 [clique aqui](https://forms.gle/fYnmL57Rwe2ZU9j3A)
-* [Colab trabalho 2 - 4 junho em grupo de até 5 pesssoas](https://colab.research.google.com/drive/1Mv75E8fnQfOyBXq4HiSDmFN7-5CUkK5h?usp=sharing) + [video com dicas](https://www.youtube.com/playlist?list=PLcvOyD_LMr6koZ87zzxnplFdXj7jehWQ1)
+* [Colab trabalho 2 - 11 junho em grupo de até 5 pesssoas](https://colab.research.google.com/drive/1Mv75E8fnQfOyBXq4HiSDmFN7-5CUkK5h?usp=sharing) + [video com dicas](https://www.youtube.com/playlist?list=PLcvOyD_LMr6koZ87zzxnplFdXj7jehWQ1)
+* [Colab trabalho 3 - 25 junho até 5 integrantes](https://colab.research.google.com/drive/1IqfIVOFMUfuKfu84z3xGlEXsf7P92i-s?usp=sharing)
   
 # Referências 
 * Amazon [Livro de Introdução à lógica digital com Verilog](https://www.amazon.com.br/Introdu%C3%A7%C3%A3o-L%C3%B3gica-Digital-com-Verilog-ebook/dp/B0CPJPDSFL/ref=sr_1_fkmr0_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2WZWPGQZ1BS9K&dib=eyJ2IjoiMSJ9.OpGfXffViXnTvj7ogV0CJh2OUy5TvRfvb-NJkDQCbejTJnPjzjIyDdXJegg2ufVIxAmt8HilkUTCtScS93YtzuAP6F8yfJGh-XGjBQPyg7g.6R-MiNqh0eDPVKqRcs4xc59LDL-K5f_KDrOBk49CK_0&dib_tag=se&keywords=introdu%C3%A7%C3%A3o+ao+verilog&qid=1708534722&sprefix=introducao+ao+verilo%2Caps%2C224&sr=8-1-fkmr0)
