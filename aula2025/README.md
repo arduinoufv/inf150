@@ -63,11 +63,15 @@
 
 ## Aula 11 22/5/25 - Circuitos Universais
 * [Colab decodficador, codificador, mux, rede multiestagio](https://colab.research.google.com/drive/1GkhgwvcmEflAuuwC5xNmEIpd9XFS8_i9?usp=sharing)
+* [Playlist de Video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6koZ87zzxnplFdXj7jehWQ1)
 
 ## Aula 12 28/5/25 - Unidade Lógica Aritmética 
+* [playlist de video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nZyIGoYvnahtM6bs5bWDDH)
+* Olhar trabalho 2 que foi explicado na aula.
 
 ## Aula 13 4/6/25 - FlipFlops 
-
+* Explicação do Trabalho 3
+  
 ## Aula 14 11/6/25 - Contadores e Memórias
 
 ## Aula 15 18/6/25 - FPGAs, ADC/DAC
