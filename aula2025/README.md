@@ -71,6 +71,9 @@
 
 ## Aula 13 4/6/25 - FlipFlops 
 * Explicação do Trabalho 3
+* [Colab de FlipFlop](https://colab.research.google.com/drive/1FknuR-ytt43UU_2YSInpt7JTPTeA3g7s?usp=sharing)
+* [questionario](https://drive.google.com/file/d/1i23Q_YGyA1klP7uiZG8D9yrtapSD2qvr/view)
+* 
   
 ## Aula 14 11/6/25 - Contadores e Memórias
 
