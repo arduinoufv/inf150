@@ -78,6 +78,7 @@
 ## Aula 14 11/6/25 - Contadores e Memórias
 
 ## Aula 15 18/6/25 - FPGAs, ADC/DAC
+* [Simulador de FPGA Pitanga](https://board.inplace-da.com/)
 
 ## Aula 16 25/6/25 - Revisão 
 
