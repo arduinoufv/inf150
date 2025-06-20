@@ -82,9 +82,13 @@
 
 ## Aula 15 18/6/25 - FPGAs, ADC/DAC
 * [Simulador de FPGA Pitanga](https://board.inplace-da.com/)
+* [Analógico Digital](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nBpPXyHER2vn4zAnVbkHPZ)
+
+* [Parte I da Revisão para Prova 2](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lovRZrarTM3ziJvnpW1vnZ)
 
 ## Aula 16 25/6/25 - Revisão 
 
-## Aula 17 2/6/25  - Prova 2
+## Aula 17 2/6/25  - Prova 2 será no PVA 363 (não é no PVB)...
+* [Prova 2 de 2024](https://docs.google.com/document/d/11LR5q6AxVAe2Lr0nvXGhsAoNb72ECqi9Wp0UKo4Bujs/edit?usp=sharing) e [prova de 2022](https://docs.google.com/document/d/1zuaW5AuPseEPGUlAB3qctP-1VbnWRsxPrlSZJsKQ2HQ/edit?usp=sharing)
 
 
