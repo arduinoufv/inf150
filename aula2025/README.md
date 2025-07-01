@@ -4,7 +4,7 @@
 ## Trabalhos 
 * [Colab do Trabalho 1 - prazo 6 Maio - individual](https://colab.research.google.com/drive/1H3aUtoNS5JrGH-O9ySW4yZigYmi_Ju0c?usp=sharing) - Para envio do trabalho 1 [clique aqui](https://forms.gle/fYnmL57Rwe2ZU9j3A)
 * [Colab trabalho 2 - 15 junho em grupo de até 5 pesssoas](https://colab.research.google.com/drive/1Mv75E8fnQfOyBXq4HiSDmFN7-5CUkK5h?usp=sharing) + [video com dicas](https://www.youtube.com/playlist?list=PLcvOyD_LMr6koZ87zzxnplFdXj7jehWQ1) , [clique aqui para envio do trabalho 2](https://forms.gle/LLGtu6oib15YjRLz7)
-* [Colab trabalho 3 - 2 julho até 5 integrantes](https://colab.research.google.com/drive/1IqfIVOFMUfuKfu84z3xGlEXsf7P92i-s?usp=sharing) + [playlist](https://www.youtube.com/playlist?list=PLcvOyD_LMr6m6ukIlF6vOAs-88533buWt) Para envio do trabalho 3 [clique aqui](https://forms.gle/mUKGYagCQ7hum58N7) 
+* [Colab trabalho 3 - 7 julho até 5 integrantes](https://colab.research.google.com/drive/1IqfIVOFMUfuKfu84z3xGlEXsf7P92i-s?usp=sharing) + [playlist](https://www.youtube.com/playlist?list=PLcvOyD_LMr6m6ukIlF6vOAs-88533buWt) Para envio do trabalho 3 [clique aqui](https://forms.gle/mUKGYagCQ7hum58N7) 
 
   
 # Referências 
