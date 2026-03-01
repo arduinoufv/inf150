@@ -22,6 +22,8 @@
 * [Folha de exercício, cada lista é diferente](https://drive.google.com/file/d/1hVYZJdLe7PYeeJi03vZbT9mWAdDpBWUa/view?usp=sharing)
 * [**Resposta da Folha de Exercicio da Aula**](https://docs.google.com/document/d/1cqq3Q13tjPxvGbMxlI_CgOY6hJ5Q5TpsB8NbBXLNNtU/edit?usp=sharing)
 * ![](https://github.com/arduinoufv/inf150/blob/master/aula2026/qrcode_teste1_2026.png?raw=true) ou [Link Colab](https://colab.research.google.com/drive/1o1MJMdnXnjS8jHiNIKmYl5NTTOII5gpY?usp=sharing)
+* [notebookLM](https://notebooklm.google.com/notebook/9716ebf3-d20c-44ad-a33f-acb20c6650ff)
+* [Colab com exercícios](https://colab.research.google.com/drive/1fXos9vwI_qQl2x3kUQ3gy32EuEFAemqm?usp=sharing)
 * [Material Complementar](https://github.com/arduinoufv/inf150/blob/master/aula2025/complementaraula1.md) e [video da aula de 2025](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lZCoO89C2XdwUnBdVjreHe)
 
 ------------
