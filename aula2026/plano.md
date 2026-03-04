@@ -29,22 +29,19 @@ Introdução aos Sistemas Lógicos
 * Engajamento: Testes rápidos de múltipla escolha ao fim de cada tópico para fixação imediata.
 
 ## Cronograma de Atividades
+Módulo	Conteúdo Principal	Atividade Prática / Ferramenta
 
-+--------------+------------------------------------+-------------------------------------------+
-| Módulo       | Conteúdo Principal                 | Atividade Prática / Ferramenta            |
-+--------------+------------------------------------+-------------------------------------------+
-| 1. A Base    | Transistores e Níveis Lógicos      | Demonstração física e simulação de chaves.|
-+--------------+------------------------------------+-------------------------------------------+
-| 2. Portas    | Álgebra Booleana e Portas Lógicas  | Exercícios de simplificação e montagem.   |
-+--------------+------------------------------------+-------------------------------------------+
-| 3. Avaliação | Prova Teórico-Prática I            | Tabelas-verdade e Mapas de Karnaugh.      |
-+--------------+------------------------------------+-------------------------------------------+
-| 4. Aritmética| Somadores e Comparadores           | Desafio: Construir unidade de soma.       |
-+--------------+------------------------------------+-------------------------------------------+
-| 5. Memória   | Latches, Flip-Flops e Registradores| Visualização de armazenamento de bits.    |
-+--------------+------------------------------------+-------------------------------------------+
-| 6. Avaliação | Prova Final                        | Avaliação somativa de todo o conteúdo.    |
-+--------------+------------------------------------+-------------------------------------------+
+1. A Base	Transistores e Níveis Lógicos	Demonstração física e simulação de chaves (ON/OFF).
+   
+2. Portas	Álgebra Booleana e Portas Lógicas	Exercícios de simplificação e montagem visual.
+   
+3. Avaliação I	Prova Teórico-Prática	Tabelas-verdade e Mapas de Karnaugh.
+   
+4. Aritmética	Somadores, Subtratores e Comparadores	Desafio: Construir uma unidade de soma gráfica.
+
+5. Memória	Latches, Flip-Flops e Registradores	Exercícios de visualização de armazenamento de bits.
+   
+6. Avaliação II	Prova Final	Avaliação somativa orientada a solução de problemas.
 
 ## Diferenciais do Curso
 
