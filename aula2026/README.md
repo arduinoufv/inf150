@@ -1,3 +1,4 @@
+# Plano de Aula e Objetivos [clique aqui](https://github.com/arduinoufv/inf150/blob/master/aula2026/plano.md)
 # Avaliação
 * 2 provas de 40 pontos nos dias 6/5/2026 e 1/7/26 Local: **a definir**
 *  8  testes em sala de aula de 1,5 pontos, total = 12pt, 2 Trabalhos de 4 pontos em GRUPO com apresentação e arguição ORAL.
