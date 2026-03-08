@@ -38,18 +38,21 @@
 * [Material complementar](https://github.com/arduinoufv/inf150/blob/master/aula2025/materialcomplementaraula2.md)
 * [aula completa de 2025](https://drive.google.com/file/d/1CnRwIh3y0dkhrhb8sJLMO7sjdA0DPexe/view?usp=sharing) 
 ------
-## Aula 3 26/3/25 (auditorio)  - Tabela Verdade e Soma de Produtos - [Videos com exercícios passo a passo](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lZMgR6ZjM9eMU8rYGoh4jS) e [aula completa](https://drive.google.com/file/d/1q9qMGtrsfB67lGJYM6Ngw9SJyRtkIYqI/view?usp=sharing)
-  * Entregar a lista de exercícios de Algebra Booleana em Papel na aula de 26/3.
+## Aula 3 25/3/26  - Tabela Verdade e Soma de Produtos -   
+  * Teste 2 de Algebra Booleana 
   * [**lista de exercicios para treino**](https://drive.google.com/file/d/1--W5NXHyAUGi1qciiN-YxRrLvHiniXl3/view?usp=sharing) e a [resposta dos exercicios de treino](https://drive.google.com/file/d/1hld6aUR42eBKP4UkdDtW4a7O47mY1wB5/view?usp=sharing)
   * [slides de portas lógicas e tabela verdade](https://docs.google.com/presentation/d/1GkUW5eD_ZkHe4yXAb5SvtNi0wi1yX2J4IXJ8inCa15c/edit?usp=sharing)
-  * [Material Complementar](https://github.com/arduinoufv/inf150/blob/master/aula2025/aula3_materialcomplementar.md)   
+  * [Material Complementar](https://github.com/arduinoufv/inf150/blob/master/aula2025/aula3_materialcomplementar.md)
+  * [**Colab para Treinar para o teste 3**](https://colab.research.google.com/drive/1UEd8owZmb793e3qjKlro7YqsgTB-ntxH?usp=sharing)
+  * [Videos com exercícios passo a passo da aula de 2025](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lZMgR6ZjM9eMU8rYGoh4jS) e [aula completa](https://drive.google.com/file/d/1q9qMGtrsfB67lGJYM6Ngw9SJyRtkIYqI/view?usp=sharing)
+-----
 
-## Aula 4 2/4/25 (assíncrona) - [Assistir as aulas Circuitos CMOS - clique aqui](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mHm8nNxNDKwYsPYQEoH041)
-* Entregar a lista de Tabela Verdade e Soma de Produtos em papel na secretaria no Escaninho Ricardo S Ferreira até 2 abril 2025.
+## Aula 4 1/4/26 - 
+* teste 3 de Tabelas e Portas
 * [Lista de exercicios da aula](https://drive.google.com/file/d/1-2zKhwZjzf9PLyEUHJEr55TJY73Fse65/view?usp=sharing) e suas [respostas](https://drive.google.com/file/d/1GKmm5gsR7oYwfVEnADQ6TbARqb8rPi3c/view?usp=sharing)
-* Entregar a lista em papel na secretaria no Escaninho Ricardo S Ferreira até 7 abril 2025.
 * [material complementar](https://github.com/arduinoufv/inf150/blob/master/aula2025/aula4_materialcomplementar.md)
-  
+* [Assistir as aulas Circuitos CMOS DE 2025- clique aqui](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mHm8nNxNDKwYsPYQEoH041)
+  -----
 ## Aula 5 9/4/25 - Introdução a Verilog [video aula](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nsxVw7dOY2DLBBu1aRNJ3Y)
  * [Colab com introdução a Verilog e exercício](https://colab.research.google.com/drive/1suVDyByBbvu8xugBTyiYrHu8VN6d8se1?usp=sharing)
  * [Material Complementar](https://github.com/arduinoufv/inf150/blob/master/aula2025/aula5_materialcomplementar.md) 
