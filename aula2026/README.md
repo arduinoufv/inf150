@@ -31,7 +31,10 @@
 ------------
 ## Aula 2 18/3/26  ALGEBRA BOOLEANA
 * Teste 1 - 20 minutos para fazer - sobre Codificação.
-* [**Exercicios para treino apenas...**](https://github.com/arduinoufv/inf150/blob/master/aulas2023/lista_portas_logicas.pdf) e [**Resposta dos exercicios de treino**](https://github.com/arduinoufv/inf150/blob/master/aulas2023/answer_portas_logicas.pdf)
+* Entregue em Sala de Aula [**Exercicios para treino apenas...**](https://github.com/arduinoufv/inf150/blob/master/aulas2023/lista_portas_logicas.pdf) e [**Resposta dos exercicios de treino**](https://github.com/arduinoufv/inf150/blob/master/aulas2023/answer_portas_logicas.pdf)
+* [Quiz online para treinar para teste](https://colab.research.google.com/drive/1JiU0gVBVLbcWVX0NQFrEuQweTrsF3nDA?usp=sharing)
+* [Simulador em Javascript desenvolvido na UFV com LLM](https://colab.research.google.com/drive/1gzru4liqbwdGDj28lG3qroe4M7nqVUZQ?usp=sharing)
+* [Simuladro em Python desenvolvido na UFV com LLM](https://colab.research.google.com/drive/1FVYxFDIJiYh-8wPnOuPKKffnyNMxuOxC?usp=sharing)
 * [Material complementar](https://github.com/arduinoufv/inf150/blob/master/aula2025/materialcomplementaraula2.md)
 * [aula completa de 2025](https://drive.google.com/file/d/1CnRwIh3y0dkhrhb8sJLMO7sjdA0DPexe/view?usp=sharing) 
 ------
