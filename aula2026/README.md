@@ -29,11 +29,12 @@
 * [Material Complementar](https://github.com/arduinoufv/inf150/blob/master/aula2025/complementaraula1.md) e [video da aula de 2025](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lZCoO89C2XdwUnBdVjreHe)
 
 ------------
-
-## Aula 2 19/3/25 (auditorio)- ALGEBRA BOOLEANA [aula completa](https://drive.google.com/file/d/1CnRwIh3y0dkhrhb8sJLMO7sjdA0DPexe/view?usp=sharing) e [videos em partes]()
+## Aula 2 18/3/26  ALGEBRA BOOLEANA
+* Teste 1 - 20 minutos para fazer - sobre Codificação.
 * [**Exercicios para treino apenas...**](https://github.com/arduinoufv/inf150/blob/master/aulas2023/lista_portas_logicas.pdf) e [**Resposta dos exercicios de treino**](https://github.com/arduinoufv/inf150/blob/master/aulas2023/answer_portas_logicas.pdf)
 * [Material complementar](https://github.com/arduinoufv/inf150/blob/master/aula2025/materialcomplementaraula2.md)
-
+* [aula completa de 2025](https://drive.google.com/file/d/1CnRwIh3y0dkhrhb8sJLMO7sjdA0DPexe/view?usp=sharing) 
+------
 ## Aula 3 26/3/25 (auditorio)  - Tabela Verdade e Soma de Produtos - [Videos com exercícios passo a passo](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lZMgR6ZjM9eMU8rYGoh4jS) e [aula completa](https://drive.google.com/file/d/1q9qMGtrsfB67lGJYM6Ngw9SJyRtkIYqI/view?usp=sharing)
   * Entregar a lista de exercícios de Algebra Booleana em Papel na aula de 26/3.
   * [**lista de exercicios para treino**](https://drive.google.com/file/d/1--W5NXHyAUGi1qciiN-YxRrLvHiniXl3/view?usp=sharing) e a [resposta dos exercicios de treino](https://drive.google.com/file/d/1hld6aUR42eBKP4UkdDtW4a7O47mY1wB5/view?usp=sharing)
