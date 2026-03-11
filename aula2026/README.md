@@ -55,6 +55,7 @@
   -----
 ## Aula 5 9/4/25 - Introdução a Verilog [video aula](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nsxVw7dOY2DLBBu1aRNJ3Y)
  * [Colab com introdução a Verilog e exercício](https://colab.research.google.com/drive/1suVDyByBbvu8xugBTyiYrHu8VN6d8se1?usp=sharing)
+ * * [Treinamento com o professor Switch](https://colab.research.google.com/drive/16sHP0T1ZdaUTWNh0iyv_5iIj8mqdQCrL?usp=sharing)
  * [Material Complementar](https://github.com/arduinoufv/inf150/blob/master/aula2025/aula5_materialcomplementar.md) 
 
 ## Aula 6 16/4/25 - Mapas de Karnaugh [playlist de video da aula](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mgF9VknWR2Hd6W31i96gWJ)
