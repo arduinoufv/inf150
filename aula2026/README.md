@@ -35,6 +35,7 @@
 * [Quiz online para treinar para teste](https://colab.research.google.com/drive/1JiU0gVBVLbcWVX0NQFrEuQweTrsF3nDA?usp=sharing)
 * [Simulador em Javascript desenvolvido na UFV com LLM](https://colab.research.google.com/drive/1gzru4liqbwdGDj28lG3qroe4M7nqVUZQ?usp=sharing)
 * [Simulador em Python desenvolvido na UFV com LLM](https://colab.research.google.com/drive/1FVYxFDIJiYh-8wPnOuPKKffnyNMxuOxC?usp=sharing)
+* [Simulador livre onde voce pode desenhar qualquer circuito para conferir as respostas](https://colab.research.google.com/drive/1UGffEqnlyh5B0zIb4To3MNDx84cis2KE)
 * [Material complementar](https://github.com/arduinoufv/inf150/blob/master/aula2025/materialcomplementaraula2.md)
 * [aula completa de 2025](https://drive.google.com/file/d/1CnRwIh3y0dkhrhb8sJLMO7sjdA0DPexe/view?usp=sharing) 
 ------
