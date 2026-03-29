@@ -45,10 +45,11 @@
   * [slides de portas lógicas e tabela verdade](https://docs.google.com/presentation/d/1GkUW5eD_ZkHe4yXAb5SvtNi0wi1yX2J4IXJ8inCa15c/edit?usp=sharing)
   * [Material Complementar](https://github.com/arduinoufv/inf150/blob/master/aula2025/aula3_materialcomplementar.md)
   * [**Colab para Treinar para o teste 3**](https://colab.research.google.com/drive/1UEd8owZmb793e3qjKlro7YqsgTB-ntxH?usp=sharing)
+  * [**Explicações em Vídeo para treinar para teste 3](https://youtu.be/RizCvOxfhzo)
   * [Videos com exercícios passo a passo da aula de 2025](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lZMgR6ZjM9eMU8rYGoh4jS) e [aula completa](https://drive.google.com/file/d/1q9qMGtrsfB67lGJYM6Ngw9SJyRtkIYqI/view?usp=sharing)
 -----
 
-## Aula 4 1/4/26 - 
+## Aula 4 1/4/26 - Como são construídas as portas lógicas
 * teste 3 de Tabelas e Portas
 * [Lista de exercicios da aula](https://drive.google.com/file/d/1-2zKhwZjzf9PLyEUHJEr55TJY73Fse65/view?usp=sharing) e suas [respostas](https://drive.google.com/file/d/1GKmm5gsR7oYwfVEnADQ6TbARqb8rPi3c/view?usp=sharing)
 * [material complementar](https://github.com/arduinoufv/inf150/blob/master/aula2025/aula4_materialcomplementar.md)
