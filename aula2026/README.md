@@ -73,8 +73,8 @@
 ## Aula 8 30/4/25 - Revisão [playlist da revisao para Prova](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kq4BRO5-Cy5lFu-qfByHPa)
 * [Com os exemplos para treinar para Prova](https://colab.research.google.com/drive/1_bViy1QEU1QLEMN65p_UunLLkzh26JDc?usp=sharing)
 
-## Aula 9 7/5/25 - Prova I será no PVB auditório II - na entrada 
-* Portas lógicas, Tabelas, Verilog com **assign**, Verilog Estrutural, Portas com Transistores CMOS, Mapas de Karnaugh
+## Aula 9 7/5/25 - Prova I será no PVB auditório I - na entrada 
+* Portas lógicas, Tabelas, Verilog com **assign**, Verilog Estrutural, Testbench do Verilog, Portas com Transistores CMOS, Mapas de Karnaugh
 * [prova 2023](https://github.com/arduinoufv/inf150/blob/master/aula2025/p1_2023.pdf), [prova 2024](https://github.com/arduinoufv/inf150/blob/master/aula2025/p1_2024_inf150.pdf)
 
 ## Aula 10 14/5/25 - Bitslice [playlist da aula](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mlA4AwPQdhz7pJJFjQ7hKe)
