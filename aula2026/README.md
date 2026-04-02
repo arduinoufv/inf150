@@ -55,25 +55,25 @@
 * [material complementar](https://github.com/arduinoufv/inf150/blob/master/aula2025/aula4_materialcomplementar.md)
 * [Assistir as aulas Circuitos CMOS DE 2025- clique aqui](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mHm8nNxNDKwYsPYQEoH041)
   -----
-## Aula 5 9/4/25 - Introdução a Verilog [video aula](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nsxVw7dOY2DLBBu1aRNJ3Y)
+## Aula 5 8/4/26 - Introdução a Verilog [video aula](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nsxVw7dOY2DLBBu1aRNJ3Y)
  * [Colab com introdução a Verilog e exercício](https://colab.research.google.com/drive/1suVDyByBbvu8xugBTyiYrHu8VN6d8se1?usp=sharing)
  * * [Treinamento com o professor Switch](https://colab.research.google.com/drive/16sHP0T1ZdaUTWNh0iyv_5iIj8mqdQCrL?usp=sharing)
  * [Material Complementar](https://github.com/arduinoufv/inf150/blob/master/aula2025/aula5_materialcomplementar.md) 
 
-## Aula 6 16/4/25 - Mapas de Karnaugh [playlist de video da aula](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mgF9VknWR2Hd6W31i96gWJ)
+## Aula 6 15/4/26 - Mapas de Karnaugh [playlist de video da aula](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mgF9VknWR2Hd6W31i96gWJ)
 * folha com os enunciados [dos exercicios com mapa de karnaugh](https://drive.google.com/file/d/1-JrRzb7MWTtMG1-y2G3ev2iVxOM2I0sm/view?usp=sharing)
 * [Colab para correção dos exercicios](https://colab.research.google.com/drive/19aJ1oDwK5JUYXYPB2dWbPCNop1dAfjS_?usp=sharing)
 * [material complementar](https://github.com/arduinoufv/inf150/blob/master/aula2025/aula6_material_complementar.md)
 
-## Aula 7 23/4/25 - Mapas de Karnaugh com Dont Care [play list da aula](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nl20MAR40qS6hMlpCl3Z2P)
+## Aula 7 22/4/26 - Mapas de Karnaugh com Dont Care [play list da aula](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nl20MAR40qS6hMlpCl3Z2P)
 * [Folha de exercícios](https://drive.google.com/file/d/1FZUZcUT-JQgdERv98UHQ8ypQx4nwoTgR/view?usp=sharing)
 * correção da [lista de exercícios](https://colab.research.google.com/drive/1yZjkn7F3TyocJ0m-xLGl2JyJm6ViE9Xu?usp=sharing)
 * [exemplo comparador com complemento de 2](https://colab.research.google.com/drive/1cPupx2eHujwLsPRxDJw1T0QWA0nFsuz4?usp=sharing)
 * [material complementar](https://github.com/arduinoufv/inf150/blob/master/aula2025/aula7_dontcare_e_karnaugh.md)
-## Aula 8 30/4/25 - Revisão [playlist da revisao para Prova](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kq4BRO5-Cy5lFu-qfByHPa)
+## Aula 8 29/4/26 - Revisão [playlist da revisao para Prova](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kq4BRO5-Cy5lFu-qfByHPa)
 * [Com os exemplos para treinar para Prova](https://colab.research.google.com/drive/1_bViy1QEU1QLEMN65p_UunLLkzh26JDc?usp=sharing)
 
-## Aula 9 7/5/25 - Prova I será no PVB auditório I - na entrada 
+## Aula 9 6/5/25 - Prova I será no PVB auditório I - na entrada 
 * Portas lógicas, Tabelas, Verilog com **assign**, Verilog Estrutural, Testbench do Verilog, Portas com Transistores CMOS, Mapas de Karnaugh
 * [prova 2023](https://github.com/arduinoufv/inf150/blob/master/aula2025/p1_2023.pdf), [prova 2024](https://github.com/arduinoufv/inf150/blob/master/aula2025/p1_2024_inf150.pdf)
 
