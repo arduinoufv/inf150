@@ -55,11 +55,12 @@
 * [material complementar](https://github.com/arduinoufv/inf150/blob/master/aula2025/aula4_materialcomplementar.md)
 * [Assistir as aulas Circuitos CMOS DE 2025- clique aqui](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mHm8nNxNDKwYsPYQEoH041)
   -----
-## Aula 5 8/4/26 - Introdução a Verilog [video aula](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nsxVw7dOY2DLBBu1aRNJ3Y)
+## Aula 5 8/4/26 - Introdução a Verilog [video aula de 2026](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kebvdB4RxKk9bBnccsqmYG) 
  * [Colab com introdução a Verilog e exercício](https://colab.research.google.com/drive/1suVDyByBbvu8xugBTyiYrHu8VN6d8se1?usp=sharing)
- * * [Treinamento com o professor Switch](https://colab.research.google.com/drive/16sHP0T1ZdaUTWNh0iyv_5iIj8mqdQCrL?usp=sharing)
+ * [Treinamento com o professor Switch](https://colab.research.google.com/drive/16sHP0T1ZdaUTWNh0iyv_5iIj8mqdQCrL?usp=sharing)
  * [Material Complementar](https://github.com/arduinoufv/inf150/blob/master/aula2025/aula5_materialcomplementar.md) 
-
+ * [video aula 2025](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nsxVw7dOY2DLBBu1aRNJ3Y)
+ 
 ## Aula 6 15/4/26 - Mapas de Karnaugh [playlist de video da aula](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mgF9VknWR2Hd6W31i96gWJ)
 * folha com os enunciados [dos exercicios com mapa de karnaugh](https://drive.google.com/file/d/1-JrRzb7MWTtMG1-y2G3ev2iVxOM2I0sm/view?usp=sharing)
 * [Colab para correção dos exercicios](https://colab.research.google.com/drive/19aJ1oDwK5JUYXYPB2dWbPCNop1dAfjS_?usp=sharing)
