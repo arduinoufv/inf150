@@ -61,9 +61,11 @@
  * [Material Complementar](https://github.com/arduinoufv/inf150/blob/master/aula2025/aula5_materialcomplementar.md) 
  * [video aula 2025](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nsxVw7dOY2DLBBu1aRNJ3Y)
  
-## Aula 6 15/4/26 - Mapas de Karnaugh [playlist de video da aula](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mgF9VknWR2Hd6W31i96gWJ)
+## Aula 6 15/4/26 - Mapas de Karnaugh 
+* Teste 4 _ VERILOG
 * folha com os enunciados [dos exercicios com mapa de karnaugh](https://drive.google.com/file/d/1-JrRzb7MWTtMG1-y2G3ev2iVxOM2I0sm/view?usp=sharing)
 * [Colab para correção dos exercicios](https://colab.research.google.com/drive/19aJ1oDwK5JUYXYPB2dWbPCNop1dAfjS_?usp=sharing)
+* [playlist de video da aula 2025](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mgF9VknWR2Hd6W31i96gWJ)
 * [material complementar](https://github.com/arduinoufv/inf150/blob/master/aula2025/aula6_material_complementar.md)
 
 ## Aula 7 22/4/26 - Mapas de Karnaugh com Dont Care [play list da aula](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nl20MAR40qS6hMlpCl3Z2P)
