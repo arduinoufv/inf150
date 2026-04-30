@@ -76,9 +76,14 @@
 ## Aula 8 29/4/26 - Revisão [playlist da revisao para Prova](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kq4BRO5-Cy5lFu-qfByHPa)
 * [Com os exemplos para treinar para Prova](https://colab.research.google.com/drive/1_bViy1QEU1QLEMN65p_UunLLkzh26JDc?usp=sharing)
 
+
 ## Aula 9 6/5/25 - Prova I será no PVB auditório I - na entrada 
 * Portas lógicas, Tabelas, Verilog com **assign**, Verilog Estrutural, Testbench do Verilog, Portas com Transistores CMOS, Mapas de Karnaugh
 * [prova 2023](https://github.com/arduinoufv/inf150/blob/master/aula2025/p1_2023.pdf), [prova 2024](https://github.com/arduinoufv/inf150/blob/master/aula2025/p1_2024_inf150.pdf)
+* [prova 2025](https://docs.google.com/document/d/1C9ddHxizDZ7YMZv-6EVhQWgOAiU9NvuZ6RshDGN2cik/edit?usp=sharing)
+* [teste 3 de 2026 e gabarito](https://drive.google.com/drive/folders/1ku67n32jG--Ic375Kr_OnuxJLg25buSI?usp=sharing)
+* [teste 4 de 2026 questoes](https://drive.google.com/file/d/1QgKXroPep6zMfakDVTBfqRs1Afcg0TmX/view?usp=sharing)
+* [gabarito 4](https://drive.google.com/file/d/1jiv-jRshUr-DwF2T3SjvEFPEQJ0VEpvz/view?usp=sharing)
 
 ## Aula 10 14/5/25 - Bitslice [playlist da aula](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mlA4AwPQdhz7pJJFjQ7hKe)
 * [Colab com explicações e vários exemplos: somador, subtrator, Lógica bitslice, ALU, multiplicador em array, raiz quadrada em array, distância de hamming](https://colab.research.google.com/drive/1LjNDVMUuKCJL7grxuLKUKzqZZZYcq60d?usp=sharing)
