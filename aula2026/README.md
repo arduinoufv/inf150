@@ -84,6 +84,8 @@
 * [teste 3 de 2026 e gabarito](https://drive.google.com/drive/folders/1ku67n32jG--Ic375Kr_OnuxJLg25buSI?usp=sharing)
 * [teste 4 de 2026 questoes](https://drive.google.com/file/d/1QgKXroPep6zMfakDVTBfqRs1Afcg0TmX/view?usp=sharing)
 * [gabarito 4](https://drive.google.com/file/d/1jiv-jRshUr-DwF2T3SjvEFPEQJ0VEpvz/view?usp=sharing)
+* [**novo** nota no teste 4](https://colab.research.google.com/drive/1Ikj9A58A5vg3wuIgw3R9ElhqVSc9D54_?usp=sharing)
+* [**novo** video da  aula de revisão](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nTdNQjEJbcZI4Nrh-wReuS)
 
 ## Aula 10 14/5/25 - Bitslice [playlist da aula](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mlA4AwPQdhz7pJJFjQ7hKe)
 * [Colab com explicações e vários exemplos: somador, subtrator, Lógica bitslice, ALU, multiplicador em array, raiz quadrada em array, distância de hamming](https://colab.research.google.com/drive/1LjNDVMUuKCJL7grxuLKUKzqZZZYcq60d?usp=sharing)
