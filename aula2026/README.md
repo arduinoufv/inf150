@@ -77,7 +77,7 @@
 * [Com os exemplos para treinar para Prova](https://colab.research.google.com/drive/1_bViy1QEU1QLEMN65p_UunLLkzh26JDc?usp=sharing)
 
 
-## Aula 9 6/5/25 - Prova I será no PVB auditório I - na entrada 
+## Aula 9 6/5/26 - Prova I será no PVB auditório I - na entrada 
 * Portas lógicas, Tabelas, Verilog com **assign**, Verilog Estrutural, Testbench do Verilog, Portas com Transistores CMOS, Mapas de Karnaugh
 * [prova 2023](https://github.com/arduinoufv/inf150/blob/master/aula2025/p1_2023.pdf), [prova 2024](https://github.com/arduinoufv/inf150/blob/master/aula2025/p1_2024_inf150.pdf)
 * [prova 2025](https://docs.google.com/document/d/1C9ddHxizDZ7YMZv-6EVhQWgOAiU9NvuZ6RshDGN2cik/edit?usp=sharing)
@@ -87,11 +87,11 @@
 * [**novo** nota no teste 4](https://colab.research.google.com/drive/1Ikj9A58A5vg3wuIgw3R9ElhqVSc9D54_?usp=sharing)
 * [**novo** video da  aula de revisão](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nTdNQjEJbcZI4Nrh-wReuS)
 
-## Aula 10 14/5/25 - Bitslice [playlist da aula](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mlA4AwPQdhz7pJJFjQ7hKe)
+## Aula 10 14/5/26 - Bitslice
 * [Colab com explicações e vários exemplos: somador, subtrator, Lógica bitslice, ALU, multiplicador em array, raiz quadrada em array, distância de hamming](https://colab.research.google.com/drive/1LjNDVMUuKCJL7grxuLKUKzqZZZYcq60d?usp=sharing)
- * [Exercicios com somadores](https://github.com/arduinoufv/inf150/blob/master/aulas2023/merged%20(4).pdf) e as [respostas](https://github.com/arduinoufv/inf150/blob/master/aulas2023/answer%20(6).pdf)
   * [Colab com projetos de Comparadores](https://colab.research.google.com/drive/1k3x55nk4mgPgs-Oa185XboUWh9LS27J7)
   * [Slide de Circuitos aritméticos e ALUs do ETH](https://safari.ethz.ch/ddca/spring2024/lib/exe/fetch.php?media=07_arithmeticcircuits.pdf)
+  *  [playlist da aula de 2025](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mlA4AwPQdhz7pJJFjQ7hKe)
 
 ## Aula 11 22/5/25 - Circuitos Universais
 * [Colab decodficador, codificador, mux, rede multiestagio](https://colab.research.google.com/drive/1GkhgwvcmEflAuuwC5xNmEIpd9XFS8_i9?usp=sharing)
