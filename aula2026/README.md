@@ -94,7 +94,7 @@
   *  [playlist da aula de 2025](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mlA4AwPQdhz7pJJFjQ7hKe)
 
 ## Aula 11 22/5/25 - Circuitos Universais - Teste 5
-* [Treinar para o teste 5]()
+* [Treinar para o teste 5](https://github.com/arduinoufv/inf150/blob/master/aula2026/teste5_inf150.pdf) + [video aula bitslice]()
 * [Colab decodficador, codificador, mux, rede multiestagio](https://colab.research.google.com/drive/1GkhgwvcmEflAuuwC5xNmEIpd9XFS8_i9?usp=sharing)
 * [Playlist de Video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6koZ87zzxnplFdXj7jehWQ1)
 
