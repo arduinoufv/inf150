@@ -93,7 +93,8 @@
   * [Slide de Circuitos aritméticos e ALUs do ETH](https://safari.ethz.ch/ddca/spring2024/lib/exe/fetch.php?media=07_arithmeticcircuits.pdf)
   *  [playlist da aula de 2025](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mlA4AwPQdhz7pJJFjQ7hKe)
 
-## Aula 11 22/5/25 - Circuitos Universais
+## Aula 11 22/5/25 - Circuitos Universais - Teste 5
+* [Treinar para o teste 5]()
 * [Colab decodficador, codificador, mux, rede multiestagio](https://colab.research.google.com/drive/1GkhgwvcmEflAuuwC5xNmEIpd9XFS8_i9?usp=sharing)
 * [Playlist de Video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6koZ87zzxnplFdXj7jehWQ1)
 
