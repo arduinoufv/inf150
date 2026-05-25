@@ -99,12 +99,12 @@
  * [Colab com projetos de Comparadores](https://colab.research.google.com/drive/1k3x55nk4mgPgs-Oa185XboUWh9LS27J7)
   * [Slide de Circuitos aritméticos e ALUs do ETH](https://safari.ethz.ch/ddca/spring2024/lib/exe/fetch.php?media=07_arithmeticcircuits.pdf)
   *  [playlist da aula de 2025](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mlA4AwPQdhz7pJJFjQ7hKe)
+  *  [exemplo trabalho 2 de 2025](https://colab.research.google.com/drive/1n_smDCAsu8A7Z1D7LiXs0nTqcXdzegsA?usp=sharing)
 ------
 * [playlist de video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nZyIGoYvnahtM6bs5bWDDH)
 
 
 ## Aula 13 3/6/26 - FlipFlops 
-* Explicação do Trabalho 3
 * [Colab de FlipFlop](https://colab.research.google.com/drive/1FknuR-ytt43UU_2YSInpt7JTPTeA3g7s?usp=sharing)
 * [questionario](https://drive.google.com/file/d/1i23Q_YGyA1klP7uiZG8D9yrtapSD2qvr/view)
 * [playlist de video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nGOnFPe8EKx4R_UPYv9Ed-)
