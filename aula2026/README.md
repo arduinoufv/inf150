@@ -89,20 +89,21 @@
 
 ## Aula 10 14/5/26 - Bitslice
 * [Colab com explicações e vários exemplos: somador, subtrator, Lógica bitslice, ALU, multiplicador em array, raiz quadrada em array, distância de hamming](https://colab.research.google.com/drive/1LjNDVMUuKCJL7grxuLKUKzqZZZYcq60d?usp=sharing)
-  * [Colab com projetos de Comparadores](https://colab.research.google.com/drive/1k3x55nk4mgPgs-Oa185XboUWh9LS27J7)
-  * [Slide de Circuitos aritméticos e ALUs do ETH](https://safari.ethz.ch/ddca/spring2024/lib/exe/fetch.php?media=07_arithmeticcircuits.pdf)
-  *  [playlist da aula de 2025](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mlA4AwPQdhz7pJJFjQ7hKe)
-
-## Aula 11 22/5/25 - Circuitos Universais - Teste 5
+ 
+## Aula 11 20/5/26 - Circuitos Universais - Teste 5
 * [Treinar para o teste 5](https://github.com/arduinoufv/inf150/blob/master/aula2026/teste5_inf150.pdf) + [video aula bitslice](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kRWOio2eMEdkefVYUKOQjI)
 * [Colab decodficador, codificador, mux, rede multiestagio](https://colab.research.google.com/drive/1GkhgwvcmEflAuuwC5xNmEIpd9XFS8_i9?usp=sharing)
 * [Playlist de Video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6koZ87zzxnplFdXj7jehWQ1)
 
-## Aula 12 28/5/25 - Unidade Lógica Aritmética 
+## Aula 12 27/5/26 - Unidade Lógica Aritmética - Teste 6
+ * [Colab com projetos de Comparadores](https://colab.research.google.com/drive/1k3x55nk4mgPgs-Oa185XboUWh9LS27J7)
+  * [Slide de Circuitos aritméticos e ALUs do ETH](https://safari.ethz.ch/ddca/spring2024/lib/exe/fetch.php?media=07_arithmeticcircuits.pdf)
+  *  [playlist da aula de 2025](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mlA4AwPQdhz7pJJFjQ7hKe)
+------
 * [playlist de video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nZyIGoYvnahtM6bs5bWDDH)
-* Olhar trabalho 2 que foi explicado na aula.
 
-## Aula 13 4/6/25 - FlipFlops 
+
+## Aula 13 3/6/26 - FlipFlops 
 * Explicação do Trabalho 3
 * [Colab de FlipFlop](https://colab.research.google.com/drive/1FknuR-ytt43UU_2YSInpt7JTPTeA3g7s?usp=sharing)
 * [questionario](https://drive.google.com/file/d/1i23Q_YGyA1klP7uiZG8D9yrtapSD2qvr/view)
