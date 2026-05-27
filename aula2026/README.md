@@ -2,9 +2,9 @@
 # Avaliação
 * 2 provas de 40 pontos nos dias 6/5/2026 e 1/7/26 Local: **a definir**
 *  8  testes em sala de aula de 1,5 pontos, total = 12pt, 2 Trabalhos de 4 pontos em GRUPO com apresentação e arguição ORAL.
-## Trabalhos 
-* Trabalho 1 - Simulador com a correspondência entre Verilog e Edição Gráfica
-* Trabalho 2 - Maior de 3 com visualização do diagrama usando SVG.
+## Trabalhos prazo 29 de Junho 2026
+* [Trabalho 1 - Simulador com a correspondência entre Verilog e Edição Gráfica](https://colab.research.google.com/drive/1fFKzOrXRye5cwnATuY4fBXF8CjsG_2VL?usp=sharing)
+* [Trabalho 2 - Maior de 3](https://colab.research.google.com/drive/13Y1qbi2fg-KxupR5Go1Bz2oTs6j6zBvj?usp=sharing)
 
 ### Exemplos de Trabalhos de 2025
 * [Colab do Trabalho 1 - individual](https://colab.research.google.com/drive/1H3aUtoNS5JrGH-O9ySW4yZigYmi_Ju0c?usp=sharing) - Para envio do trabalho 1 [clique aqui](https://forms.gle/fYnmL57Rwe2ZU9j3A)
