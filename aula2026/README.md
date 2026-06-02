@@ -106,14 +106,15 @@
 
 ## Aula 13 3/6/26 - FlipFlops 
 * [Colab de FlipFlop](https://colab.research.google.com/drive/1FknuR-ytt43UU_2YSInpt7JTPTeA3g7s?usp=sharing)
-* [questionario](https://drive.google.com/file/d/1i23Q_YGyA1klP7uiZG8D9yrtapSD2qvr/view)
-* [playlist de video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nGOnFPe8EKx4R_UPYv9Ed-)
+* [questionario em papel distribuído em aula](https://drive.google.com/file/d/1i23Q_YGyA1klP7uiZG8D9yrtapSD2qvr/view)
+* [questionario online para treino](https://colab.research.google.com/drive/1x3xUbdBK5T9TxZEdD6E9KXUdDF-UU9wA?usp=sharing)
+* [playlist de video de 2025](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nGOnFPe8EKx4R_UPYv9Ed-)
   
-## Aula 14 11/6/25 - Contadores e Memórias
+## Aula 14 11/6/25 - Contadores e Memórias - teste de Flipflop
 * [Colab](https://colab.research.google.com/drive/1AvEWHM7gbO0myfvDGVtV_trl4cCF3GrQ?usp=sharing)
-* [Playlist video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kwiiH1Xry941Jnt4n9klk1)
+* [Playlist video de 2025](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kwiiH1Xry941Jnt4n9klk1)
 
-## Aula 15 18/6/25 - FPGAs, ADC/DAC
+## Aula 15 18/6/25 - FPGAs, ADC/DAC - teste de Memórias
 * [Simulador de FPGA Pitanga](https://board.inplace-da.com/)
 * [Analógico Digital](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nBpPXyHER2vn4zAnVbkHPZ)
 
