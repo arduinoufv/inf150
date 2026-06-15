@@ -110,20 +110,22 @@
 * [questionario online para treino](https://colab.research.google.com/drive/1x3xUbdBK5T9TxZEdD6E9KXUdDF-UU9wA?usp=sharing)
 * [playlist de video de 2025](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nGOnFPe8EKx4R_UPYv9Ed-)
   
-## Aula 14 11/6/25 - Contadores e Memórias - teste de Flipflop
+## Aula 14 10/6/26 - Contadores e Memórias - teste de Flipflop
 * [Colab](https://colab.research.google.com/drive/1AvEWHM7gbO0myfvDGVtV_trl4cCF3GrQ?usp=sharing)
 * [Playlist video de 2025](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kwiiH1Xry941Jnt4n9klk1)
 
-## Aula 15 18/6/25 - FPGAs, ADC/DAC - teste de Memórias
+## Aula 15 17/6/26 - FPGAs, ABC, ADC/DAC - teste de Memórias
 * [Simulador de FPGA Pitanga](https://board.inplace-da.com/)
-* [Analógico Digital](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nBpPXyHER2vn4zAnVbkHPZ)
+* [Analógico Digital de 2025](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nBpPXyHER2vn4zAnVbkHPZ)
+* [Colab](https://colab.research.google.com/drive/1-2TUphfSq1olotA9x5lIi02xw1qBdc42?usp=sharing)
+* dicas trabalhos 1 e 2
 
-
-## Aula 16 25/6/25 - Revisão 
-* [Revisão para Prova 2 e algumas dicas trabalho 3](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lovRZrarTM3ziJvnpW1vnZ)
-* [Olhar também o passo a passo do trabalho 3](https://www.youtube.com/playlist?list=PLcvOyD_LMr6m6ukIlF6vOAs-88533buWt)
-
-## Aula 17 2/6/25  - Prova 2 será no PVA 363 (não é no PVB)...
+## Aula 16 24/6/25 - Revisão 
+* Revisão para Prova 2 e algumas dicas trabalhos 1 e 2
+* [revisão de 2025](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lovRZrarTM3ziJvnpW1vnZ)
+  
+## Aula 17 1/6/25  - Prova 2 - Auditorio PVB
+* Prova 2 de 2025
 * [Prova 2 de 2024](https://docs.google.com/document/d/11LR5q6AxVAe2Lr0nvXGhsAoNb72ECqi9Wp0UKo4Bujs/edit?usp=sharing) e [prova de 2022](https://docs.google.com/document/d/1zuaW5AuPseEPGUlAB3qctP-1VbnWRsxPrlSZJsKQ2HQ/edit?usp=sharing)
 
 
