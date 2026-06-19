@@ -118,7 +118,7 @@
 * [Simulador de FPGA Pitanga](https://board.inplace-da.com/)
 * [Analógico Digital de 2025](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nBpPXyHER2vn4zAnVbkHPZ)
 * [Colab](https://colab.research.google.com/drive/1-2TUphfSq1olotA9x5lIi02xw1qBdc42?usp=sharing)
-* dicas trabalhos 1 e 2
+* dicas trabalhos [1](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nwv0dXv2n0SVoQasR0qPcz) e [2](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nWt0tmkXuHqHzM9seMx_Rk)
 
 ## Aula 16 24/6/25 - Revisão 
 * Revisão para Prova 2 e algumas dicas trabalhos 1 e 2
