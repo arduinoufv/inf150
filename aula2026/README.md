@@ -120,12 +120,13 @@
 * [Colab](https://colab.research.google.com/drive/1-2TUphfSq1olotA9x5lIi02xw1qBdc42?usp=sharing)
 * dicas trabalhos [1](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nwv0dXv2n0SVoQasR0qPcz) e [2](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nWt0tmkXuHqHzM9seMx_Rk)
 
-## Aula 16 24/6/25 - Revisão 
-* Revisão para Prova 2 e algumas dicas trabalhos 1 e 2
+## Aula 16 24/6/25 - Revisão  para Prova 2 e algumas dicas trabalhos 1 e 2
+* [Aula de revisão de 2026 e a prova de 2025](https://www.youtube.com/playlist?list=PLG3uA_c901gM) e [excalidraw com desenho prova 2025](https://excalidraw.com/#json=dqMI0KQ-s6fmunZQ-P6KV,pyWnyveZgssFjs_iKtMsOg)
+* [Prova 2 de 2025](https://docs.google.com/document/d/1aTOE7KcHUNTpYL1By4-hUdf0vaZvGDZnYBNuFuUA1YM/edit?usp=sharing)
+* [teste  5 a 8](https://drive.google.com/drive/folders/1NF1HbUYk4BZGPFvecER5UzY8fWEVXwAt?usp=sharing)
 * [revisão de 2025](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lovRZrarTM3ziJvnpW1vnZ)
+* [Prova 2 de 2024](https://docs.google.com/document/d/11LR5q6AxVAe2Lr0nvXGhsAoNb72ECqi9Wp0UKo4Bujs/edit?usp=sharing) e [prova de 2022](https://docs.google.com/document/d/1zuaW5AuPseEPGUlAB3qctP-1VbnWRsxPrlSZJsKQ2HQ/edit?usp=sharing)
   
 ## Aula 17 1/6/25  - Prova 2 - Auditorio PVB
-* Prova 2 de 2025
-* [Prova 2 de 2024](https://docs.google.com/document/d/11LR5q6AxVAe2Lr0nvXGhsAoNb72ECqi9Wp0UKo4Bujs/edit?usp=sharing) e [prova de 2022](https://docs.google.com/document/d/1zuaW5AuPseEPGUlAB3qctP-1VbnWRsxPrlSZJsKQ2HQ/edit?usp=sharing)
 
 
