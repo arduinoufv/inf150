@@ -2,7 +2,7 @@
 # Avaliação
 * 2 provas de 40 pontos nos dias 6/5/2026 e 1/7/26 Local: **a definir**
 *  8  testes em sala de aula de 1,5 pontos, total = 12pt, 2 Trabalhos de 4 pontos em GRUPO com apresentação e arguição ORAL.
-## Trabalhos prazo 29 de Junho 2026- enviar trabalhos no [form](https://forms.gle/nDz1bzbCZ8Xpu83SA) grupo de até 5 pessoas
+## Trabalhos prazo 29 de Junho 2026- enviar trabalhos no [form - clique aqui e ENVIE](https://forms.gle/nDz1bzbCZ8Xpu83SA) grupo de até 5 pessoas
 * [Trabalho 1 - Simulador com a correspondência entre Verilog e Edição Gráfica](https://colab.research.google.com/drive/1fFKzOrXRye5cwnATuY4fBXF8CjsG_2VL?usp=sharing) e instruções no [video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nwv0dXv2n0SVoQasR0qPcz)
 * [Trabalho 2 - Maior de 3](https://colab.research.google.com/drive/13Y1qbi2fg-KxupR5Go1Bz2oTs6j6zBvj?usp=sharing) e instruções no [video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nWt0tmkXuHqHzM9seMx_Rk)
 
